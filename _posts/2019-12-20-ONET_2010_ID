@@ -1,0 +1,993 @@
+<style type="text/css">
+	table.tableizer-table {
+		font-size: 12px;
+		border: 1px solid #CCC; 
+		font-family: Arial, Helvetica, sans-serif;
+	} 
+	.tableizer-table td {
+		padding: 4px;
+		margin: 3px;
+		border: 1px solid #CCC;
+	}
+	.tableizer-table th {
+		background-color: #104E8B; 
+		color: #FFF;
+		font-weight: bold;
+	}
+</style>
+<table class="tableizer-table">
+<thead><tr class="tableizer-firstrow"><th>11-1011.00</th><th>1</th><th>Chief Executives</th></tr></thead><tbody>
+ <tr><td>11-1011.03</td><td>2</td><td>Chief Sustainability Officers</td></tr>
+ <tr><td>11-1021.00</td><td>3</td><td>General and Operations Managers</td></tr>
+ <tr><td>11-1031.00</td><td>4</td><td>Legislators</td></tr>
+ <tr><td>11-2011.00</td><td>5</td><td>Advertising and Promotions Managers</td></tr>
+ <tr><td>11-2011.01</td><td>6</td><td>Green Marketers</td></tr>
+ <tr><td>11-2021.00</td><td>7</td><td>Marketing Managers</td></tr>
+ <tr><td>11-2022.00</td><td>8</td><td>Sales Managers</td></tr>
+ <tr><td>11-2031.00</td><td>9</td><td>Public Relations and Fundraising Managers</td></tr>
+ <tr><td>11-3011.00</td><td>10</td><td>Administrative Services Managers</td></tr>
+ <tr><td>11-3021.00</td><td>11</td><td>Computer and Information Systems Managers</td></tr>
+ <tr><td>11-3031.01</td><td>12</td><td>Treasurers and Controllers</td></tr>
+ <tr><td>11-3031.02</td><td>13</td><td>Financial Managers, Branch or Department</td></tr>
+ <tr><td>11-3051.00</td><td>14</td><td>Industrial Production Managers</td></tr>
+ <tr><td>11-3051.01</td><td>15</td><td>Quality Control Systems Managers</td></tr>
+ <tr><td>11-3051.02</td><td>16</td><td>Geothermal Production Managers</td></tr>
+ <tr><td>11-3051.03</td><td>17</td><td>Biofuels Production Managers</td></tr>
+ <tr><td>11-3051.04</td><td>18</td><td>Biomass Power Plant Managers</td></tr>
+ <tr><td>11-3051.05</td><td>19</td><td>Methane/Landfill Gas Collection System Operators</td></tr>
+ <tr><td>11-3051.06</td><td>20</td><td>Hydroelectric Production Managers</td></tr>
+ <tr><td>11-3061.00</td><td>21</td><td>Purchasing Managers</td></tr>
+ <tr><td>11-3071.01</td><td>22</td><td>Transportation Managers</td></tr>
+ <tr><td>11-3071.02</td><td>23</td><td>Storage and Distribution Managers</td></tr>
+ <tr><td>11-3071.03</td><td>24</td><td>Logistics Managers</td></tr>
+ <tr><td>11-3111.00</td><td>25</td><td>Compensation and Benefits Managers</td></tr>
+ <tr><td>11-3121.00</td><td>26</td><td>Human Resources Managers</td></tr>
+ <tr><td>11-3131.00</td><td>27</td><td>Training and Development Managers</td></tr>
+ <tr><td>11-9013.01</td><td>28</td><td>Nursery and Greenhouse Managers</td></tr>
+ <tr><td>11-9013.02</td><td>29</td><td>Farm and Ranch Managers</td></tr>
+ <tr><td>11-9013.03</td><td>30</td><td>Aquacultural Managers</td></tr>
+ <tr><td>11-9021.00</td><td>31</td><td>Construction Managers</td></tr>
+ <tr><td>11-9031.00</td><td>32</td><td>Education Administrators, Preschool and Childcare Center/Program</td></tr>
+ <tr><td>11-9032.00</td><td>33</td><td>Education Administrators, Elementary and Secondary School</td></tr>
+ <tr><td>11-9033.00</td><td>34</td><td>Education Administrators, Postsecondary</td></tr>
+ <tr><td>11-9039.01</td><td>35</td><td>Distance Learning Coordinators</td></tr>
+ <tr><td>11-9039.02</td><td>36</td><td>Fitness and Wellness Coordinators</td></tr>
+ <tr><td>11-9041.00</td><td>37</td><td>Architectural and Engineering Managers</td></tr>
+ <tr><td>11-9041.01</td><td>38</td><td>Biofuels/Biodiesel Technology and Product Development Managers</td></tr>
+ <tr><td>11-9051.00</td><td>39</td><td>Food Service Managers</td></tr>
+ <tr><td>11-9061.00</td><td>40</td><td>Funeral Service Managers</td></tr>
+ <tr><td>11-9071.00</td><td>41</td><td>Gaming Managers</td></tr>
+ <tr><td>11-9081.00</td><td>42</td><td>Lodging Managers</td></tr>
+ <tr><td>11-9111.00</td><td>43</td><td>Medical and Health Services Managers</td></tr>
+ <tr><td>11-9121.00</td><td>44</td><td>Natural Sciences Managers</td></tr>
+ <tr><td>11-9121.01</td><td>45</td><td>Clinical Research Coordinators</td></tr>
+ <tr><td>11-9121.02</td><td>46</td><td>Water Resource Specialists</td></tr>
+ <tr><td>11-9131.00</td><td>47</td><td>Postmasters and Mail Superintendents</td></tr>
+ <tr><td>11-9141.00</td><td>48</td><td>Property, Real Estate, and Community Association Managers</td></tr>
+ <tr><td>11-9151.00</td><td>49</td><td>Social and Community Service Managers</td></tr>
+ <tr><td>11-9161.00</td><td>50</td><td>Emergency Management Directors</td></tr>
+ <tr><td>11-9199.01</td><td>51</td><td>Regulatory Affairs Managers</td></tr>
+ <tr><td>11-9199.02</td><td>52</td><td>Compliance Managers</td></tr>
+ <tr><td>11-9199.03</td><td>53</td><td>Investment Fund Managers</td></tr>
+ <tr><td>11-9199.04</td><td>54</td><td>Supply Chain Managers</td></tr>
+ <tr><td>11-9199.07</td><td>55</td><td>Security Managers</td></tr>
+ <tr><td>11-9199.08</td><td>56</td><td>Loss Prevention Managers</td></tr>
+ <tr><td>11-9199.09</td><td>57</td><td>Wind Energy Operations Managers</td></tr>
+ <tr><td>11-9199.10</td><td>58</td><td>Wind Energy Project Managers</td></tr>
+ <tr><td>11-9199.11</td><td>59</td><td>Brownfield Redevelopment Specialists and Site Managers</td></tr>
+ <tr><td>13-1011.00</td><td>60</td><td>Agents and Business Managers of Artists, Performers, and Athletes</td></tr>
+ <tr><td>13-1021.00</td><td>61</td><td>Buyers and Purchasing Agents, Farm Products</td></tr>
+ <tr><td>13-1022.00</td><td>62</td><td>Wholesale and Retail Buyers, Except Farm Products</td></tr>
+ <tr><td>13-1023.00</td><td>63</td><td>Purchasing Agents, Except Wholesale, Retail, and Farm Products</td></tr>
+ <tr><td>13-1031.01</td><td>64</td><td>Claims Examiners, Property and Casualty Insurance</td></tr>
+ <tr><td>13-1031.02</td><td>65</td><td>Insurance Adjusters, Examiners, and Investigators</td></tr>
+ <tr><td>13-1032.00</td><td>66</td><td>Insurance Appraisers, Auto Damage</td></tr>
+ <tr><td>13-1041.01</td><td>67</td><td>Environmental Compliance Inspectors</td></tr>
+ <tr><td>13-1041.02</td><td>68</td><td>Licensing Examiners and Inspectors</td></tr>
+ <tr><td>13-1041.03</td><td>69</td><td>Equal Opportunity Representatives and Officers</td></tr>
+ <tr><td>13-1041.04</td><td>70</td><td>Government Property Inspectors and Investigators</td></tr>
+ <tr><td>13-1041.06</td><td>71</td><td>Coroners</td></tr>
+ <tr><td>13-1041.07</td><td>72</td><td>Regulatory Affairs Specialists</td></tr>
+ <tr><td>13-1051.00</td><td>73</td><td>Cost Estimators</td></tr>
+ <tr><td>13-1071.00</td><td>74</td><td>Human Resources Specialists</td></tr>
+ <tr><td>13-1074.00</td><td>75</td><td>Farm Labor Contractors</td></tr>
+ <tr><td>13-1075.00</td><td>76</td><td>Labor Relations Specialists</td></tr>
+ <tr><td>13-1081.00</td><td>77</td><td>Logisticians</td></tr>
+ <tr><td>13-1081.01</td><td>78</td><td>Logistics Engineers</td></tr>
+ <tr><td>13-1081.02</td><td>79</td><td>Logistics Analysts</td></tr>
+ <tr><td>13-1111.00</td><td>80</td><td>Management Analysts</td></tr>
+ <tr><td>13-1121.00</td><td>81</td><td>Meeting, Convention, and Event Planners</td></tr>
+ <tr><td>13-1131.00</td><td>82</td><td>Fundraisers</td></tr>
+ <tr><td>13-1141.00</td><td>83</td><td>Compensation, Benefits, and Job Analysis Specialists</td></tr>
+ <tr><td>13-1151.00</td><td>84</td><td>Training and Development Specialists</td></tr>
+ <tr><td>13-1161.00</td><td>85</td><td>Market Research Analysts and Marketing Specialists</td></tr>
+ <tr><td>13-1199.01</td><td>86</td><td>Energy Auditors</td></tr>
+ <tr><td>13-1199.02</td><td>87</td><td>Security Management Specialists</td></tr>
+ <tr><td>13-1199.03</td><td>88</td><td>Customs Brokers</td></tr>
+ <tr><td>13-1199.04</td><td>89</td><td>Business Continuity Planners</td></tr>
+ <tr><td>13-1199.05</td><td>90</td><td>Sustainability Specialists</td></tr>
+ <tr><td>13-1199.06</td><td>91</td><td>Online Merchants</td></tr>
+ <tr><td>13-2011.01</td><td>92</td><td>Accountants</td></tr>
+ <tr><td>13-2011.02</td><td>93</td><td>Auditors</td></tr>
+ <tr><td>13-2021.01</td><td>94</td><td>Assessors</td></tr>
+ <tr><td>13-2021.02</td><td>95</td><td>Appraisers, Real Estate</td></tr>
+ <tr><td>13-2031.00</td><td>96</td><td>Budget Analysts</td></tr>
+ <tr><td>13-2041.00</td><td>97</td><td>Credit Analysts</td></tr>
+ <tr><td>13-2051.00</td><td>98</td><td>Financial Analysts</td></tr>
+ <tr><td>13-2052.00</td><td>99</td><td>Personal Financial Advisors</td></tr>
+ <tr><td>13-2053.00</td><td>100</td><td>Insurance Underwriters</td></tr>
+ <tr><td>13-2061.00</td><td>101</td><td>Financial Examiners</td></tr>
+ <tr><td>13-2071.00</td><td>102</td><td>Credit Counselors</td></tr>
+ <tr><td>13-2071.01</td><td>103</td><td>Loan Counselors</td></tr>
+ <tr><td>13-2072.00</td><td>104</td><td>Loan Officers</td></tr>
+ <tr><td>13-2081.00</td><td>105</td><td>Tax Examiners and Collectors, and Revenue Agents</td></tr>
+ <tr><td>13-2082.00</td><td>106</td><td>Tax Preparers</td></tr>
+ <tr><td>13-2099.01</td><td>107</td><td>Financial Quantitative Analysts</td></tr>
+ <tr><td>13-2099.02</td><td>108</td><td>Risk Management Specialists</td></tr>
+ <tr><td>13-2099.03</td><td>109</td><td>Investment Underwriters</td></tr>
+ <tr><td>13-2099.04</td><td>110</td><td>Fraud Examiners, Investigators and Analysts</td></tr>
+ <tr><td>15-1111.00</td><td>111</td><td>Computer and Information Research Scientists</td></tr>
+ <tr><td>15-1121.00</td><td>112</td><td>Computer Systems Analysts</td></tr>
+ <tr><td>15-1121.01</td><td>113</td><td>Informatics Nurse Specialists</td></tr>
+ <tr><td>15-1122.00</td><td>114</td><td>Information Security Analysts</td></tr>
+ <tr><td>15-1131.00</td><td>115</td><td>Computer Programmers</td></tr>
+ <tr><td>15-1132.00</td><td>116</td><td>Software Developers, Applications</td></tr>
+ <tr><td>15-1133.00</td><td>117</td><td>Software Developers, Systems Software</td></tr>
+ <tr><td>15-1134.00</td><td>118</td><td>Web Developers</td></tr>
+ <tr><td>15-1141.00</td><td>119</td><td>Database Administrators</td></tr>
+ <tr><td>15-1142.00</td><td>120</td><td>Network and Computer Systems Administrators</td></tr>
+ <tr><td>15-1143.00</td><td>121</td><td>Computer Network Architects</td></tr>
+ <tr><td>15-1143.01</td><td>122</td><td>Telecommunications Engineering Specialists</td></tr>
+ <tr><td>15-1151.00</td><td>123</td><td>Computer User Support Specialists</td></tr>
+ <tr><td>15-1152.00</td><td>124</td><td>Computer Network Support Specialists</td></tr>
+ <tr><td>15-1199.01</td><td>125</td><td>Software Quality Assurance Engineers and Testers</td></tr>
+ <tr><td>15-1199.02</td><td>126</td><td>Computer Systems Engineers/Architects</td></tr>
+ <tr><td>15-1199.03</td><td>127</td><td>Web Administrators</td></tr>
+ <tr><td>15-1199.04</td><td>128</td><td>Geospatial Information Scientists and Technologists</td></tr>
+ <tr><td>15-1199.05</td><td>129</td><td>Geographic Information Systems Technicians</td></tr>
+ <tr><td>15-1199.06</td><td>130</td><td>Database Architects</td></tr>
+ <tr><td>15-1199.07</td><td>131</td><td>Data Warehousing Specialists</td></tr>
+ <tr><td>15-1199.08</td><td>132</td><td>Business Intelligence Analysts</td></tr>
+ <tr><td>15-1199.09</td><td>133</td><td>Information Technology Project Managers</td></tr>
+ <tr><td>15-1199.10</td><td>134</td><td>Search Marketing Strategists</td></tr>
+ <tr><td>15-1199.11</td><td>135</td><td>Video Game Designers</td></tr>
+ <tr><td>15-1199.12</td><td>136</td><td>Document Management Specialists</td></tr>
+ <tr><td>15-2011.00</td><td>137</td><td>Actuaries</td></tr>
+ <tr><td>15-2021.00</td><td>138</td><td>Mathematicians</td></tr>
+ <tr><td>15-2031.00</td><td>139</td><td>Operations Research Analysts</td></tr>
+ <tr><td>15-2041.00</td><td>140</td><td>Statisticians</td></tr>
+ <tr><td>15-2041.01</td><td>141</td><td>Biostatisticians</td></tr>
+ <tr><td>15-2041.02</td><td>142</td><td>Clinical Data Managers</td></tr>
+ <tr><td>15-2091.00</td><td>143</td><td>Mathematical Technicians</td></tr>
+ <tr><td>17-1011.00</td><td>144</td><td>Architects, Except Landscape and Naval</td></tr>
+ <tr><td>17-1012.00</td><td>145</td><td>Landscape Architects</td></tr>
+ <tr><td>17-1021.00</td><td>146</td><td>Cartographers and Photogrammetrists</td></tr>
+ <tr><td>17-1022.00</td><td>147</td><td>Surveyors</td></tr>
+ <tr><td>17-1022.01</td><td>148</td><td>Geodetic Surveyors</td></tr>
+ <tr><td>17-2011.00</td><td>149</td><td>Aerospace Engineers</td></tr>
+ <tr><td>17-2021.00</td><td>150</td><td>Agricultural Engineers</td></tr>
+ <tr><td>17-2031.00</td><td>151</td><td>Biomedical Engineers</td></tr>
+ <tr><td>17-2041.00</td><td>152</td><td>Chemical Engineers</td></tr>
+ <tr><td>17-2051.00</td><td>153</td><td>Civil Engineers</td></tr>
+ <tr><td>17-2051.01</td><td>154</td><td>Transportation Engineers</td></tr>
+ <tr><td>17-2061.00</td><td>155</td><td>Computer Hardware Engineers</td></tr>
+ <tr><td>17-2071.00</td><td>156</td><td>Electrical Engineers</td></tr>
+ <tr><td>17-2072.00</td><td>157</td><td>Electronics Engineers, Except Computer</td></tr>
+ <tr><td>17-2072.01</td><td>158</td><td>Radio Frequency Identification Device Specialists</td></tr>
+ <tr><td>17-2081.00</td><td>159</td><td>Environmental Engineers</td></tr>
+ <tr><td>17-2081.01</td><td>160</td><td>Water/Wastewater Engineers</td></tr>
+ <tr><td>17-2111.01</td><td>161</td><td>Industrial Safety and Health Engineers</td></tr>
+ <tr><td>17-2111.02</td><td>162</td><td>Fire-Prevention and Protection Engineers</td></tr>
+ <tr><td>17-2111.03</td><td>163</td><td>Product Safety Engineers</td></tr>
+ <tr><td>17-2112.00</td><td>164</td><td>Industrial Engineers</td></tr>
+ <tr><td>17-2112.01</td><td>165</td><td>Human Factors Engineers and Ergonomists</td></tr>
+ <tr><td>17-2121.01</td><td>166</td><td>Marine Engineers</td></tr>
+ <tr><td>17-2121.02</td><td>167</td><td>Marine Architects</td></tr>
+ <tr><td>17-2131.00</td><td>168</td><td>Materials Engineers</td></tr>
+ <tr><td>17-2141.00</td><td>169</td><td>Mechanical Engineers</td></tr>
+ <tr><td>17-2141.01</td><td>170</td><td>Fuel Cell Engineers</td></tr>
+ <tr><td>17-2141.02</td><td>171</td><td>Automotive Engineers</td></tr>
+ <tr><td>17-2151.00</td><td>172</td><td>Mining and Geological Engineers, Including Mining Safety Engineers</td></tr>
+ <tr><td>17-2161.00</td><td>173</td><td>Nuclear Engineers</td></tr>
+ <tr><td>17-2171.00</td><td>174</td><td>Petroleum Engineers</td></tr>
+ <tr><td>17-2199.01</td><td>175</td><td>Biochemical Engineers</td></tr>
+ <tr><td>17-2199.02</td><td>176</td><td>Validation Engineers</td></tr>
+ <tr><td>17-2199.03</td><td>177</td><td>Energy Engineers</td></tr>
+ <tr><td>17-2199.04</td><td>178</td><td>Manufacturing Engineers</td></tr>
+ <tr><td>17-2199.05</td><td>179</td><td>Mechatronics Engineers</td></tr>
+ <tr><td>17-2199.06</td><td>180</td><td>Microsystems Engineers</td></tr>
+ <tr><td>17-2199.07</td><td>181</td><td>Photonics Engineers</td></tr>
+ <tr><td>17-2199.08</td><td>182</td><td>Robotics Engineers</td></tr>
+ <tr><td>17-2199.09</td><td>183</td><td>Nanosystems Engineers</td></tr>
+ <tr><td>17-2199.10</td><td>184</td><td>Wind Energy Engineers</td></tr>
+ <tr><td>17-2199.11</td><td>185</td><td>Solar Energy Systems Engineers</td></tr>
+ <tr><td>17-3011.01</td><td>186</td><td>Architectural Drafters</td></tr>
+ <tr><td>17-3011.02</td><td>187</td><td>Civil Drafters</td></tr>
+ <tr><td>17-3012.01</td><td>188</td><td>Electronic Drafters</td></tr>
+ <tr><td>17-3012.02</td><td>189</td><td>Electrical Drafters</td></tr>
+ <tr><td>17-3013.00</td><td>190</td><td>Mechanical Drafters</td></tr>
+ <tr><td>17-3021.00</td><td>191</td><td>Aerospace Engineering and Operations Technicians</td></tr>
+ <tr><td>17-3022.00</td><td>192</td><td>Civil Engineering Technicians</td></tr>
+ <tr><td>17-3023.01</td><td>193</td><td>Electronics Engineering Technicians</td></tr>
+ <tr><td>17-3023.03</td><td>194</td><td>Electrical Engineering Technicians</td></tr>
+ <tr><td>17-3024.00</td><td>195</td><td>Electro-Mechanical Technicians</td></tr>
+ <tr><td>17-3024.01</td><td>196</td><td>Robotics Technicians</td></tr>
+ <tr><td>17-3025.00</td><td>197</td><td>Environmental Engineering Technicians</td></tr>
+ <tr><td>17-3026.00</td><td>198</td><td>Industrial Engineering Technicians</td></tr>
+ <tr><td>17-3027.00</td><td>199</td><td>Mechanical Engineering Technicians</td></tr>
+ <tr><td>17-3027.01</td><td>200</td><td>Automotive Engineering Technicians</td></tr>
+ <tr><td>17-3029.01</td><td>201</td><td>Non-Destructive Testing Specialists</td></tr>
+ <tr><td>17-3029.02</td><td>202</td><td>Electrical Engineering Technologists</td></tr>
+ <tr><td>17-3029.03</td><td>203</td><td>Electromechanical Engineering Technologists</td></tr>
+ <tr><td>17-3029.04</td><td>204</td><td>Electronics Engineering Technologists</td></tr>
+ <tr><td>17-3029.05</td><td>205</td><td>Industrial Engineering Technologists</td></tr>
+ <tr><td>17-3029.06</td><td>206</td><td>Manufacturing Engineering Technologists</td></tr>
+ <tr><td>17-3029.07</td><td>207</td><td>Mechanical Engineering Technologists</td></tr>
+ <tr><td>17-3029.08</td><td>208</td><td>Photonics Technicians</td></tr>
+ <tr><td>17-3029.09</td><td>209</td><td>Manufacturing Production Technicians</td></tr>
+ <tr><td>17-3029.10</td><td>210</td><td>Fuel Cell Technicians</td></tr>
+ <tr><td>17-3029.11</td><td>211</td><td>Nanotechnology Engineering Technologists</td></tr>
+ <tr><td>17-3029.12</td><td>212</td><td>Nanotechnology Engineering Technicians</td></tr>
+ <tr><td>17-3031.01</td><td>213</td><td>Surveying Technicians</td></tr>
+ <tr><td>17-3031.02</td><td>214</td><td>Mapping Technicians</td></tr>
+ <tr><td>19-1011.00</td><td>215</td><td>Animal Scientists</td></tr>
+ <tr><td>19-1012.00</td><td>216</td><td>Food Scientists and Technologists</td></tr>
+ <tr><td>19-1013.00</td><td>217</td><td>Soil and Plant Scientists</td></tr>
+ <tr><td>19-1020.01</td><td>218</td><td>Biologists</td></tr>
+ <tr><td>19-1021.00</td><td>219</td><td>Biochemists and Biophysicists</td></tr>
+ <tr><td>19-1022.00</td><td>220</td><td>Microbiologists</td></tr>
+ <tr><td>19-1023.00</td><td>221</td><td>Zoologists and Wildlife Biologists</td></tr>
+ <tr><td>19-1029.01</td><td>222</td><td>Bioinformatics Scientists</td></tr>
+ <tr><td>19-1029.02</td><td>223</td><td>Molecular and Cellular Biologists</td></tr>
+ <tr><td>19-1029.03</td><td>224</td><td>Geneticists</td></tr>
+ <tr><td>19-1031.01</td><td>225</td><td>Soil and Water Conservationists</td></tr>
+ <tr><td>19-1031.02</td><td>226</td><td>Range Managers</td></tr>
+ <tr><td>19-1031.03</td><td>227</td><td>Park Naturalists</td></tr>
+ <tr><td>19-1032.00</td><td>228</td><td>Foresters</td></tr>
+ <tr><td>19-1041.00</td><td>229</td><td>Epidemiologists</td></tr>
+ <tr><td>19-1042.00</td><td>230</td><td>Medical Scientists, Except Epidemiologists</td></tr>
+ <tr><td>19-2011.00</td><td>231</td><td>Astronomers</td></tr>
+ <tr><td>19-2012.00</td><td>232</td><td>Physicists</td></tr>
+ <tr><td>19-2021.00</td><td>233</td><td>Atmospheric and Space Scientists</td></tr>
+ <tr><td>19-2031.00</td><td>234</td><td>Chemists</td></tr>
+ <tr><td>19-2032.00</td><td>235</td><td>Materials Scientists</td></tr>
+ <tr><td>19-2041.00</td><td>236</td><td>Environmental Scientists and Specialists, Including Health</td></tr>
+ <tr><td>19-2041.01</td><td>237</td><td>Climate Change Analysts</td></tr>
+ <tr><td>19-2041.02</td><td>238</td><td>Environmental Restoration Planners</td></tr>
+ <tr><td>19-2041.03</td><td>239</td><td>Industrial Ecologists</td></tr>
+ <tr><td>19-2042.00</td><td>240</td><td>Geoscientists, Except Hydrologists and Geographers</td></tr>
+ <tr><td>19-2043.00</td><td>241</td><td>Hydrologists</td></tr>
+ <tr><td>19-2099.01</td><td>242</td><td>Remote Sensing Scientists and Technologists</td></tr>
+ <tr><td>19-3011.00</td><td>243</td><td>Economists</td></tr>
+ <tr><td>19-3011.01</td><td>244</td><td>Environmental Economists</td></tr>
+ <tr><td>19-3022.00</td><td>245</td><td>Survey Researchers</td></tr>
+ <tr><td>19-3031.01</td><td>246</td><td>School Psychologists</td></tr>
+ <tr><td>19-3031.02</td><td>247</td><td>Clinical Psychologists</td></tr>
+ <tr><td>19-3031.03</td><td>248</td><td>Counseling Psychologists</td></tr>
+ <tr><td>19-3032.00</td><td>249</td><td>Industrial-Organizational Psychologists</td></tr>
+ <tr><td>19-3039.01</td><td>250</td><td>Neuropsychologists and Clinical Neuropsychologists</td></tr>
+ <tr><td>19-3041.00</td><td>251</td><td>Sociologists</td></tr>
+ <tr><td>19-3051.00</td><td>252</td><td>Urban and Regional Planners</td></tr>
+ <tr><td>19-3091.01</td><td>253</td><td>Anthropologists</td></tr>
+ <tr><td>19-3091.02</td><td>254</td><td>Archeologists</td></tr>
+ <tr><td>19-3092.00</td><td>255</td><td>Geographers</td></tr>
+ <tr><td>19-3093.00</td><td>256</td><td>Historians</td></tr>
+ <tr><td>19-3094.00</td><td>257</td><td>Political Scientists</td></tr>
+ <tr><td>19-3099.01</td><td>258</td><td>Transportation Planners</td></tr>
+ <tr><td>19-4011.01</td><td>259</td><td>Agricultural Technicians</td></tr>
+ <tr><td>19-4011.02</td><td>260</td><td>Food Science Technicians</td></tr>
+ <tr><td>19-4021.00</td><td>261</td><td>Biological Technicians</td></tr>
+ <tr><td>19-4031.00</td><td>262</td><td>Chemical Technicians</td></tr>
+ <tr><td>19-4041.01</td><td>263</td><td>Geophysical Data Technicians</td></tr>
+ <tr><td>19-4041.02</td><td>264</td><td>Geological Sample Test Technicians</td></tr>
+ <tr><td>19-4051.01</td><td>265</td><td>Nuclear Equipment Operation Technicians</td></tr>
+ <tr><td>19-4051.02</td><td>266</td><td>Nuclear Monitoring Technicians</td></tr>
+ <tr><td>19-4061.00</td><td>267</td><td>Social Science Research Assistants</td></tr>
+ <tr><td>19-4061.01</td><td>268</td><td>City and Regional Planning Aides</td></tr>
+ <tr><td>19-4091.00</td><td>269</td><td>Environmental Science and Protection Technicians, Including Health</td></tr>
+ <tr><td>19-4092.00</td><td>270</td><td>Forensic Science Technicians</td></tr>
+ <tr><td>19-4093.00</td><td>271</td><td>Forest and Conservation Technicians</td></tr>
+ <tr><td>19-4099.01</td><td>272</td><td>Quality Control Analysts</td></tr>
+ <tr><td>19-4099.02</td><td>273</td><td>Precision Agriculture Technicians</td></tr>
+ <tr><td>19-4099.03</td><td>274</td><td>Remote Sensing Technicians</td></tr>
+ <tr><td>21-1011.00</td><td>275</td><td>Substance Abuse and Behavioral Disorder Counselors</td></tr>
+ <tr><td>21-1012.00</td><td>276</td><td>Educational, Guidance, School, and Vocational Counselors</td></tr>
+ <tr><td>21-1013.00</td><td>277</td><td>Marriage and Family Therapists</td></tr>
+ <tr><td>21-1014.00</td><td>278</td><td>Mental Health Counselors</td></tr>
+ <tr><td>21-1015.00</td><td>279</td><td>Rehabilitation Counselors</td></tr>
+ <tr><td>21-1021.00</td><td>280</td><td>Child, Family, and School Social Workers</td></tr>
+ <tr><td>21-1022.00</td><td>281</td><td>Healthcare Social Workers</td></tr>
+ <tr><td>21-1023.00</td><td>282</td><td>Mental Health and Substance Abuse Social Workers</td></tr>
+ <tr><td>21-1091.00</td><td>283</td><td>Health Educators</td></tr>
+ <tr><td>21-1092.00</td><td>284</td><td>Probation Officers and Correctional Treatment Specialists</td></tr>
+ <tr><td>21-1093.00</td><td>285</td><td>Social and Human Service Assistants</td></tr>
+ <tr><td>21-1094.00</td><td>286</td><td>Community Health Workers</td></tr>
+ <tr><td>21-2011.00</td><td>287</td><td>Clergy</td></tr>
+ <tr><td>21-2021.00</td><td>288</td><td>Directors, Religious Activities and Education</td></tr>
+ <tr><td>23-1011.00</td><td>289</td><td>Lawyers</td></tr>
+ <tr><td>23-1012.00</td><td>290</td><td>Judicial Law Clerks</td></tr>
+ <tr><td>23-1021.00</td><td>291</td><td>Administrative Law Judges, Adjudicators, and Hearing Officers</td></tr>
+ <tr><td>23-1022.00</td><td>292</td><td>Arbitrators, Mediators, and Conciliators</td></tr>
+ <tr><td>23-1023.00</td><td>293</td><td>Judges, Magistrate Judges, and Magistrates</td></tr>
+ <tr><td>23-2011.00</td><td>294</td><td>Paralegals and Legal Assistants</td></tr>
+ <tr><td>23-2091.00</td><td>295</td><td>Court Reporters</td></tr>
+ <tr><td>23-2093.00</td><td>296</td><td>Title Examiners, Abstractors, and Searchers</td></tr>
+ <tr><td>25-1011.00</td><td>297</td><td>Business Teachers, Postsecondary</td></tr>
+ <tr><td>25-1021.00</td><td>298</td><td>Computer Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1022.00</td><td>299</td><td>Mathematical Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1031.00</td><td>300</td><td>Architecture Teachers, Postsecondary</td></tr>
+ <tr><td>25-1032.00</td><td>301</td><td>Engineering Teachers, Postsecondary</td></tr>
+ <tr><td>25-1041.00</td><td>302</td><td>Agricultural Sciences Teachers, Postsecondary</td></tr>
+ <tr><td>25-1042.00</td><td>303</td><td>Biological Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1043.00</td><td>304</td><td>Forestry and Conservation Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1051.00</td><td>305</td><td>Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary</td></tr>
+ <tr><td>25-1052.00</td><td>306</td><td>Chemistry Teachers, Postsecondary</td></tr>
+ <tr><td>25-1053.00</td><td>307</td><td>Environmental Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1054.00</td><td>308</td><td>Physics Teachers, Postsecondary</td></tr>
+ <tr><td>25-1061.00</td><td>309</td><td>Anthropology and Archeology Teachers, Postsecondary</td></tr>
+ <tr><td>25-1062.00</td><td>310</td><td>Area, Ethnic, and Cultural Studies Teachers, Postsecondary</td></tr>
+ <tr><td>25-1063.00</td><td>311</td><td>Economics Teachers, Postsecondary</td></tr>
+ <tr><td>25-1064.00</td><td>312</td><td>Geography Teachers, Postsecondary</td></tr>
+ <tr><td>25-1065.00</td><td>313</td><td>Political Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1066.00</td><td>314</td><td>Psychology Teachers, Postsecondary</td></tr>
+ <tr><td>25-1067.00</td><td>315</td><td>Sociology Teachers, Postsecondary</td></tr>
+ <tr><td>25-1071.00</td><td>316</td><td>Health Specialties Teachers, Postsecondary</td></tr>
+ <tr><td>25-1072.00</td><td>317</td><td>Nursing Instructors and Teachers, Postsecondary</td></tr>
+ <tr><td>25-1081.00</td><td>318</td><td>Education Teachers, Postsecondary</td></tr>
+ <tr><td>25-1082.00</td><td>319</td><td>Library Science Teachers, Postsecondary</td></tr>
+ <tr><td>25-1111.00</td><td>320</td><td>Criminal Justice and Law Enforcement Teachers, Postsecondary</td></tr>
+ <tr><td>25-1112.00</td><td>321</td><td>Law Teachers, Postsecondary</td></tr>
+ <tr><td>25-1113.00</td><td>322</td><td>Social Work Teachers, Postsecondary</td></tr>
+ <tr><td>25-1121.00</td><td>323</td><td>Art, Drama, and Music Teachers, Postsecondary</td></tr>
+ <tr><td>25-1122.00</td><td>324</td><td>Communications Teachers, Postsecondary</td></tr>
+ <tr><td>25-1123.00</td><td>325</td><td>English Language and Literature Teachers, Postsecondary</td></tr>
+ <tr><td>25-1124.00</td><td>326</td><td>Foreign Language and Literature Teachers, Postsecondary</td></tr>
+ <tr><td>25-1125.00</td><td>327</td><td>History Teachers, Postsecondary</td></tr>
+ <tr><td>25-1126.00</td><td>328</td><td>Philosophy and Religion Teachers, Postsecondary</td></tr>
+ <tr><td>25-1191.00</td><td>329</td><td>Graduate Teaching Assistants</td></tr>
+ <tr><td>25-1192.00</td><td>330</td><td>Home Economics Teachers, Postsecondary</td></tr>
+ <tr><td>25-1193.00</td><td>331</td><td>Recreation and Fitness Studies Teachers, Postsecondary</td></tr>
+ <tr><td>25-1194.00</td><td>332</td><td>Vocational Education Teachers, Postsecondary</td></tr>
+ <tr><td>25-2011.00</td><td>333</td><td>Preschool Teachers, Except Special Education</td></tr>
+ <tr><td>25-2012.00</td><td>334</td><td>Kindergarten Teachers, Except Special Education</td></tr>
+ <tr><td>25-2021.00</td><td>335</td><td>Elementary School Teachers, Except Special Education</td></tr>
+ <tr><td>25-2022.00</td><td>336</td><td>Middle School Teachers, Except Special and Career/Technical Education</td></tr>
+ <tr><td>25-2023.00</td><td>337</td><td>Career/Technical Education Teachers, Middle School</td></tr>
+ <tr><td>25-2031.00</td><td>338</td><td>Secondary School Teachers, Except Special and Career/Technical Education</td></tr>
+ <tr><td>25-2032.00</td><td>339</td><td>Career/Technical Education Teachers, Secondary School</td></tr>
+ <tr><td>25-2051.00</td><td>340</td><td>Special Education Teachers, Preschool</td></tr>
+ <tr><td>25-2052.00</td><td>341</td><td>Special Education Teachers, Kindergarten and Elementary School</td></tr>
+ <tr><td>25-2053.00</td><td>342</td><td>Special Education Teachers, Middle School</td></tr>
+ <tr><td>25-2054.00</td><td>343</td><td>Special Education Teachers, Secondary School</td></tr>
+ <tr><td>25-2059.01</td><td>344</td><td>Adapted Physical Education Specialists</td></tr>
+ <tr><td>25-3011.00</td><td>345</td><td>Adult Basic and Secondary Education and Literacy Teachers and Instructors</td></tr>
+ <tr><td>25-3021.00</td><td>346</td><td>Self-Enrichment Education Teachers</td></tr>
+ <tr><td>25-3099.02</td><td>347</td><td>Tutors</td></tr>
+ <tr><td>25-4011.00</td><td>348</td><td>Archivists</td></tr>
+ <tr><td>25-4012.00</td><td>349</td><td>Curators</td></tr>
+ <tr><td>25-4013.00</td><td>350</td><td>Museum Technicians and Conservators</td></tr>
+ <tr><td>25-4021.00</td><td>351</td><td>Librarians</td></tr>
+ <tr><td>25-4031.00</td><td>352</td><td>Library Technicians</td></tr>
+ <tr><td>25-9011.00</td><td>353</td><td>Audio-Visual and Multimedia Collections Specialists</td></tr>
+ <tr><td>25-9021.00</td><td>354</td><td>Farm and Home Management Advisors</td></tr>
+ <tr><td>25-9031.00</td><td>355</td><td>Instructional Coordinators</td></tr>
+ <tr><td>25-9031.01</td><td>356</td><td>Instructional Designers and Technologists</td></tr>
+ <tr><td>25-9041.00</td><td>357</td><td>Teacher Assistants</td></tr>
+ <tr><td>27-1011.00</td><td>358</td><td>Art Directors</td></tr>
+ <tr><td>27-1012.00</td><td>359</td><td>Craft Artists</td></tr>
+ <tr><td>27-1013.00</td><td>360</td><td>Fine Artists, Including Painters, Sculptors, and Illustrators</td></tr>
+ <tr><td>27-1014.00</td><td>361</td><td>Multimedia Artists and Animators</td></tr>
+ <tr><td>27-1021.00</td><td>362</td><td>Commercial and Industrial Designers</td></tr>
+ <tr><td>27-1022.00</td><td>363</td><td>Fashion Designers</td></tr>
+ <tr><td>27-1023.00</td><td>364</td><td>Floral Designers</td></tr>
+ <tr><td>27-1024.00</td><td>365</td><td>Graphic Designers</td></tr>
+ <tr><td>27-1025.00</td><td>366</td><td>Interior Designers</td></tr>
+ <tr><td>27-1026.00</td><td>367</td><td>Merchandise Displayers and Window Trimmers</td></tr>
+ <tr><td>27-1027.00</td><td>368</td><td>Set and Exhibit Designers</td></tr>
+ <tr><td>27-2011.00</td><td>369</td><td>Actors</td></tr>
+ <tr><td>27-2012.01</td><td>370</td><td>Producers</td></tr>
+ <tr><td>27-2012.02</td><td>371</td><td>Directors- Stage, Motion Pictures, Television, and Radio</td></tr>
+ <tr><td>27-2012.03</td><td>372</td><td>Program Directors</td></tr>
+ <tr><td>27-2012.04</td><td>373</td><td>Talent Directors</td></tr>
+ <tr><td>27-2012.05</td><td>374</td><td>Technical Directors/Managers</td></tr>
+ <tr><td>27-2021.00</td><td>375</td><td>Athletes and Sports Competitors</td></tr>
+ <tr><td>27-2022.00</td><td>376</td><td>Coaches and Scouts</td></tr>
+ <tr><td>27-2023.00</td><td>377</td><td>Umpires, Referees, and Other Sports Officials</td></tr>
+ <tr><td>27-2031.00</td><td>378</td><td>Dancers</td></tr>
+ <tr><td>27-2032.00</td><td>379</td><td>Choreographers</td></tr>
+ <tr><td>27-2041.01</td><td>380</td><td>Music Directors</td></tr>
+ <tr><td>27-2041.04</td><td>381</td><td>Music Composers and Arrangers</td></tr>
+ <tr><td>27-2042.01</td><td>382</td><td>Singers</td></tr>
+ <tr><td>27-2042.02</td><td>383</td><td>Musicians, Instrumental</td></tr>
+ <tr><td>27-3011.00</td><td>384</td><td>Radio and Television Announcers</td></tr>
+ <tr><td>27-3012.00</td><td>385</td><td>Public Address System and Other Announcers</td></tr>
+ <tr><td>27-3021.00</td><td>386</td><td>Broadcast News Analysts</td></tr>
+ <tr><td>27-3022.00</td><td>387</td><td>Reporters and Correspondents</td></tr>
+ <tr><td>27-3031.00</td><td>388</td><td>Public Relations Specialists</td></tr>
+ <tr><td>27-3041.00</td><td>389</td><td>Editors</td></tr>
+ <tr><td>27-3042.00</td><td>390</td><td>Technical Writers</td></tr>
+ <tr><td>27-3043.04</td><td>391</td><td>Copy Writers</td></tr>
+ <tr><td>27-3043.05</td><td>392</td><td>Poets, Lyricists and Creative Writers</td></tr>
+ <tr><td>27-3091.00</td><td>393</td><td>Interpreters and Translators</td></tr>
+ <tr><td>27-4011.00</td><td>394</td><td>Audio and Video Equipment Technicians</td></tr>
+ <tr><td>27-4012.00</td><td>395</td><td>Broadcast Technicians</td></tr>
+ <tr><td>27-4013.00</td><td>396</td><td>Radio Operators</td></tr>
+ <tr><td>27-4014.00</td><td>397</td><td>Sound Engineering Technicians</td></tr>
+ <tr><td>27-4021.00</td><td>398</td><td>Photographers</td></tr>
+ <tr><td>27-4031.00</td><td>399</td><td>Camera Operators, Television, Video, and Motion Picture</td></tr>
+ <tr><td>27-4032.00</td><td>400</td><td>Film and Video Editors</td></tr>
+ <tr><td>29-1011.00</td><td>401</td><td>Chiropractors</td></tr>
+ <tr><td>29-1021.00</td><td>402</td><td>Dentists, General</td></tr>
+ <tr><td>29-1022.00</td><td>403</td><td>Oral and Maxillofacial Surgeons</td></tr>
+ <tr><td>29-1023.00</td><td>404</td><td>Orthodontists</td></tr>
+ <tr><td>29-1024.00</td><td>405</td><td>Prosthodontists</td></tr>
+ <tr><td>29-1031.00</td><td>406</td><td>Dietitians and Nutritionists</td></tr>
+ <tr><td>29-1041.00</td><td>407</td><td>Optometrists</td></tr>
+ <tr><td>29-1051.00</td><td>408</td><td>Pharmacists</td></tr>
+ <tr><td>29-1061.00</td><td>409</td><td>Anesthesiologists</td></tr>
+ <tr><td>29-1062.00</td><td>410</td><td>Family and General Practitioners</td></tr>
+ <tr><td>29-1063.00</td><td>411</td><td>Internists, General</td></tr>
+ <tr><td>29-1064.00</td><td>412</td><td>Obstetricians and Gynecologists</td></tr>
+ <tr><td>29-1065.00</td><td>413</td><td>Pediatricians, General</td></tr>
+ <tr><td>29-1066.00</td><td>414</td><td>Psychiatrists</td></tr>
+ <tr><td>29-1067.00</td><td>415</td><td>Surgeons</td></tr>
+ <tr><td>29-1069.01</td><td>416</td><td>Allergists and Immunologists</td></tr>
+ <tr><td>29-1069.02</td><td>417</td><td>Dermatologists</td></tr>
+ <tr><td>29-1069.03</td><td>418</td><td>Hospitalists</td></tr>
+ <tr><td>29-1069.04</td><td>419</td><td>Neurologists</td></tr>
+ <tr><td>29-1069.05</td><td>420</td><td>Nuclear Medicine Physicians</td></tr>
+ <tr><td>29-1069.06</td><td>421</td><td>Ophthalmologists</td></tr>
+ <tr><td>29-1069.07</td><td>422</td><td>Pathologists</td></tr>
+ <tr><td>29-1069.08</td><td>423</td><td>Physical Medicine and Rehabilitation Physicians</td></tr>
+ <tr><td>29-1069.09</td><td>424</td><td>Preventive Medicine Physicians</td></tr>
+ <tr><td>29-1069.10</td><td>425</td><td>Radiologists</td></tr>
+ <tr><td>29-1069.11</td><td>426</td><td>Sports Medicine Physicians</td></tr>
+ <tr><td>29-1069.12</td><td>427</td><td>Urologists</td></tr>
+ <tr><td>29-1071.00</td><td>428</td><td>Physician Assistants</td></tr>
+ <tr><td>29-1071.01</td><td>429</td><td>Anesthesiologist Assistants</td></tr>
+ <tr><td>29-1081.00</td><td>430</td><td>Podiatrists</td></tr>
+ <tr><td>29-1122.00</td><td>431</td><td>Occupational Therapists</td></tr>
+ <tr><td>29-1122.01</td><td>432</td><td>Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists</td></tr>
+ <tr><td>29-1123.00</td><td>433</td><td>Physical Therapists</td></tr>
+ <tr><td>29-1124.00</td><td>434</td><td>Radiation Therapists</td></tr>
+ <tr><td>29-1125.00</td><td>435</td><td>Recreational Therapists</td></tr>
+ <tr><td>29-1125.01</td><td>436</td><td>Art Therapists</td></tr>
+ <tr><td>29-1125.02</td><td>437</td><td>Music Therapists</td></tr>
+ <tr><td>29-1126.00</td><td>438</td><td>Respiratory Therapists</td></tr>
+ <tr><td>29-1127.00</td><td>439</td><td>Speech-Language Pathologists</td></tr>
+ <tr><td>29-1128.00</td><td>440</td><td>Exercise Physiologists</td></tr>
+ <tr><td>29-1131.00</td><td>441</td><td>Veterinarians</td></tr>
+ <tr><td>29-1141.00</td><td>442</td><td>Registered Nurses</td></tr>
+ <tr><td>29-1141.01</td><td>443</td><td>Acute Care Nurses</td></tr>
+ <tr><td>29-1141.02</td><td>444</td><td>Advanced Practice Psychiatric Nurses</td></tr>
+ <tr><td>29-1141.03</td><td>445</td><td>Critical Care Nurses</td></tr>
+ <tr><td>29-1141.04</td><td>446</td><td>Clinical Nurse Specialists</td></tr>
+ <tr><td>29-1151.00</td><td>447</td><td>Nurse Anesthetists</td></tr>
+ <tr><td>29-1161.00</td><td>448</td><td>Nurse Midwives</td></tr>
+ <tr><td>29-1171.00</td><td>449</td><td>Nurse Practitioners</td></tr>
+ <tr><td>29-1181.00</td><td>450</td><td>Audiologists</td></tr>
+ <tr><td>29-1199.01</td><td>451</td><td>Acupuncturists</td></tr>
+ <tr><td>29-1199.04</td><td>452</td><td>Naturopathic Physicians</td></tr>
+ <tr><td>29-1199.05</td><td>453</td><td>Orthoptists</td></tr>
+ <tr><td>29-2011.00</td><td>454</td><td>Medical and Clinical Laboratory Technologists</td></tr>
+ <tr><td>29-2011.01</td><td>455</td><td>Cytogenetic Technologists</td></tr>
+ <tr><td>29-2011.02</td><td>456</td><td>Cytotechnologists</td></tr>
+ <tr><td>29-2011.03</td><td>457</td><td>Histotechnologists and Histologic Technicians</td></tr>
+ <tr><td>29-2012.00</td><td>458</td><td>Medical and Clinical Laboratory Technicians</td></tr>
+ <tr><td>29-2021.00</td><td>459</td><td>Dental Hygienists</td></tr>
+ <tr><td>29-2031.00</td><td>460</td><td>Cardiovascular Technologists and Technicians</td></tr>
+ <tr><td>29-2032.00</td><td>461</td><td>Diagnostic Medical Sonographers</td></tr>
+ <tr><td>29-2033.00</td><td>462</td><td>Nuclear Medicine Technologists</td></tr>
+ <tr><td>29-2034.00</td><td>463</td><td>Radiologic Technologists</td></tr>
+ <tr><td>29-2035.00</td><td>464</td><td>Magnetic Resonance Imaging Technologists</td></tr>
+ <tr><td>29-2041.00</td><td>465</td><td>Emergency Medical Technicians and Paramedics</td></tr>
+ <tr><td>29-2051.00</td><td>466</td><td>Dietetic Technicians</td></tr>
+ <tr><td>29-2052.00</td><td>467</td><td>Pharmacy Technicians</td></tr>
+ <tr><td>29-2053.00</td><td>468</td><td>Psychiatric Technicians</td></tr>
+ <tr><td>29-2054.00</td><td>469</td><td>Respiratory Therapy Technicians</td></tr>
+ <tr><td>29-2055.00</td><td>470</td><td>Surgical Technologists</td></tr>
+ <tr><td>29-2056.00</td><td>471</td><td>Veterinary Technologists and Technicians</td></tr>
+ <tr><td>29-2057.00</td><td>472</td><td>Ophthalmic Medical Technicians</td></tr>
+ <tr><td>29-2061.00</td><td>473</td><td>Licensed Practical and Licensed Vocational Nurses</td></tr>
+ <tr><td>29-2071.00</td><td>474</td><td>Medical Records and Health Information Technicians</td></tr>
+ <tr><td>29-2081.00</td><td>475</td><td>Opticians, Dispensing</td></tr>
+ <tr><td>29-2091.00</td><td>476</td><td>Orthotists and Prosthetists</td></tr>
+ <tr><td>29-2092.00</td><td>477</td><td>Hearing Aid Specialists</td></tr>
+ <tr><td>29-2099.01</td><td>478</td><td>Neurodiagnostic Technologists</td></tr>
+ <tr><td>29-2099.05</td><td>479</td><td>Ophthalmic Medical Technologists</td></tr>
+ <tr><td>29-2099.06</td><td>480</td><td>Radiologic Technicians</td></tr>
+ <tr><td>29-2099.07</td><td>481</td><td>Surgical Assistants</td></tr>
+ <tr><td>29-9011.00</td><td>482</td><td>Occupational Health and Safety Specialists</td></tr>
+ <tr><td>29-9012.00</td><td>483</td><td>Occupational Health and Safety Technicians</td></tr>
+ <tr><td>29-9091.00</td><td>484</td><td>Athletic Trainers</td></tr>
+ <tr><td>29-9092.00</td><td>485</td><td>Genetic Counselors</td></tr>
+ <tr><td>29-9099.01</td><td>486</td><td>Midwives</td></tr>
+ <tr><td>31-1011.00</td><td>487</td><td>Home Health Aides</td></tr>
+ <tr><td>31-1013.00</td><td>488</td><td>Psychiatric Aides</td></tr>
+ <tr><td>31-1014.00</td><td>489</td><td>Nursing Assistants</td></tr>
+ <tr><td>31-1015.00</td><td>490</td><td>Orderlies</td></tr>
+ <tr><td>31-2011.00</td><td>491</td><td>Occupational Therapy Assistants</td></tr>
+ <tr><td>31-2012.00</td><td>492</td><td>Occupational Therapy Aides</td></tr>
+ <tr><td>31-2021.00</td><td>493</td><td>Physical Therapist Assistants</td></tr>
+ <tr><td>31-2022.00</td><td>494</td><td>Physical Therapist Aides</td></tr>
+ <tr><td>31-9011.00</td><td>495</td><td>Massage Therapists</td></tr>
+ <tr><td>31-9091.00</td><td>496</td><td>Dental Assistants</td></tr>
+ <tr><td>31-9092.00</td><td>497</td><td>Medical Assistants</td></tr>
+ <tr><td>31-9093.00</td><td>498</td><td>Medical Equipment Preparers</td></tr>
+ <tr><td>31-9094.00</td><td>499</td><td>Medical Transcriptionists</td></tr>
+ <tr><td>31-9095.00</td><td>500</td><td>Pharmacy Aides</td></tr>
+ <tr><td>31-9096.00</td><td>501</td><td>Veterinary Assistants and Laboratory Animal Caretakers</td></tr>
+ <tr><td>31-9097.00</td><td>502</td><td>Phlebotomists</td></tr>
+ <tr><td>31-9099.01</td><td>503</td><td>Speech-Language Pathology Assistants</td></tr>
+ <tr><td>31-9099.02</td><td>504</td><td>Endoscopy Technicians</td></tr>
+ <tr><td>33-1011.00</td><td>505</td><td>First-Line Supervisors of Correctional Officers</td></tr>
+ <tr><td>33-1012.00</td><td>506</td><td>First-Line Supervisors of Police and Detectives</td></tr>
+ <tr><td>33-1021.01</td><td>507</td><td>Municipal Fire Fighting and Prevention Supervisors</td></tr>
+ <tr><td>33-1021.02</td><td>508</td><td>Forest Fire Fighting and Prevention Supervisors</td></tr>
+ <tr><td>33-2011.01</td><td>509</td><td>Municipal Firefighters</td></tr>
+ <tr><td>33-2011.02</td><td>510</td><td>Forest Firefighters</td></tr>
+ <tr><td>33-2021.01</td><td>511</td><td>Fire Inspectors</td></tr>
+ <tr><td>33-2021.02</td><td>512</td><td>Fire Investigators</td></tr>
+ <tr><td>33-2022.00</td><td>513</td><td>Forest Fire Inspectors and Prevention Specialists</td></tr>
+ <tr><td>33-3011.00</td><td>514</td><td>Bailiffs</td></tr>
+ <tr><td>33-3012.00</td><td>515</td><td>Correctional Officers and Jailers</td></tr>
+ <tr><td>33-3021.01</td><td>516</td><td>Police Detectives</td></tr>
+ <tr><td>33-3021.02</td><td>517</td><td>Police Identification and Records Officers</td></tr>
+ <tr><td>33-3021.03</td><td>518</td><td>Criminal Investigators and Special Agents</td></tr>
+ <tr><td>33-3021.05</td><td>519</td><td>Immigration and Customs Inspectors</td></tr>
+ <tr><td>33-3021.06</td><td>520</td><td>Intelligence Analysts</td></tr>
+ <tr><td>33-3031.00</td><td>521</td><td>Fish and Game Wardens</td></tr>
+ <tr><td>33-3041.00</td><td>522</td><td>Parking Enforcement Workers</td></tr>
+ <tr><td>33-3051.01</td><td>523</td><td>Police Patrol Officers</td></tr>
+ <tr><td>33-3051.03</td><td>524</td><td>Sheriffs and Deputy Sheriffs</td></tr>
+ <tr><td>33-3052.00</td><td>525</td><td>Transit and Railroad Police</td></tr>
+ <tr><td>33-9011.00</td><td>526</td><td>Animal Control Workers</td></tr>
+ <tr><td>33-9021.00</td><td>527</td><td>Private Detectives and Investigators</td></tr>
+ <tr><td>33-9031.00</td><td>528</td><td>Gaming Surveillance Officers and Gaming Investigators</td></tr>
+ <tr><td>33-9032.00</td><td>529</td><td>Security Guards</td></tr>
+ <tr><td>33-9091.00</td><td>530</td><td>Crossing Guards</td></tr>
+ <tr><td>33-9092.00</td><td>531</td><td>Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers</td></tr>
+ <tr><td>33-9093.00</td><td>532</td><td>Transportation Security Screeners</td></tr>
+ <tr><td>33-9099.02</td><td>533</td><td>Retail Loss Prevention Specialists</td></tr>
+ <tr><td>35-1011.00</td><td>534</td><td>Chefs and Head Cooks</td></tr>
+ <tr><td>35-1012.00</td><td>535</td><td>First-Line Supervisors of Food Preparation and Serving Workers</td></tr>
+ <tr><td>35-2011.00</td><td>536</td><td>Cooks, Fast Food</td></tr>
+ <tr><td>35-2012.00</td><td>537</td><td>Cooks, Institution and Cafeteria</td></tr>
+ <tr><td>35-2013.00</td><td>538</td><td>Cooks, Private Household</td></tr>
+ <tr><td>35-2014.00</td><td>539</td><td>Cooks, Restaurant</td></tr>
+ <tr><td>35-2015.00</td><td>540</td><td>Cooks, Short Order</td></tr>
+ <tr><td>35-2021.00</td><td>541</td><td>Food Preparation Workers</td></tr>
+ <tr><td>35-3011.00</td><td>542</td><td>Bartenders</td></tr>
+ <tr><td>35-3021.00</td><td>543</td><td>Combined Food Preparation and Serving Workers, Including Fast Food</td></tr>
+ <tr><td>35-3022.00</td><td>544</td><td>Counter Attendants, Cafeteria, Food Concession, and Coffee Shop</td></tr>
+ <tr><td>35-3022.01</td><td>545</td><td>Baristas</td></tr>
+ <tr><td>35-3031.00</td><td>546</td><td>Waiters and Waitresses</td></tr>
+ <tr><td>35-3041.00</td><td>547</td><td>Food Servers, Nonrestaurant</td></tr>
+ <tr><td>35-9011.00</td><td>548</td><td>Dining Room and Cafeteria Attendants and Bartender Helpers</td></tr>
+ <tr><td>35-9021.00</td><td>549</td><td>Dishwashers</td></tr>
+ <tr><td>35-9031.00</td><td>550</td><td>Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop</td></tr>
+ <tr><td>37-1011.00</td><td>551</td><td>First-Line Supervisors of Housekeeping and Janitorial Workers</td></tr>
+ <tr><td>37-1012.00</td><td>552</td><td>First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers</td></tr>
+ <tr><td>37-2011.00</td><td>553</td><td>Janitors and Cleaners, Except Maids and Housekeeping Cleaners</td></tr>
+ <tr><td>37-2012.00</td><td>554</td><td>Maids and Housekeeping Cleaners</td></tr>
+ <tr><td>37-2021.00</td><td>555</td><td>Pest Control Workers</td></tr>
+ <tr><td>37-3011.00</td><td>556</td><td>Landscaping and Groundskeeping Workers</td></tr>
+ <tr><td>37-3012.00</td><td>557</td><td>Pesticide Handlers, Sprayers, and Applicators, Vegetation</td></tr>
+ <tr><td>37-3013.00</td><td>558</td><td>Tree Trimmers and Pruners</td></tr>
+ <tr><td>39-1011.00</td><td>559</td><td>Gaming Supervisors</td></tr>
+ <tr><td>39-1012.00</td><td>560</td><td>Slot Supervisors</td></tr>
+ <tr><td>39-1021.00</td><td>561</td><td>First-Line Supervisors of Personal Service Workers</td></tr>
+ <tr><td>39-1021.01</td><td>562</td><td>Spa Managers</td></tr>
+ <tr><td>39-2011.00</td><td>563</td><td>Animal Trainers</td></tr>
+ <tr><td>39-2021.00</td><td>564</td><td>Nonfarm Animal Caretakers</td></tr>
+ <tr><td>39-3011.00</td><td>565</td><td>Gaming Dealers</td></tr>
+ <tr><td>39-3012.00</td><td>566</td><td>Gaming and Sports Book Writers and Runners</td></tr>
+ <tr><td>39-3021.00</td><td>567</td><td>Motion Picture Projectionists</td></tr>
+ <tr><td>39-3031.00</td><td>568</td><td>Ushers, Lobby Attendants, and Ticket Takers</td></tr>
+ <tr><td>39-3091.00</td><td>569</td><td>Amusement and Recreation Attendants</td></tr>
+ <tr><td>39-3092.00</td><td>570</td><td>Costume Attendants</td></tr>
+ <tr><td>39-3093.00</td><td>571</td><td>Locker Room, Coatroom, and Dressing Room Attendants</td></tr>
+ <tr><td>39-4011.00</td><td>572</td><td>Embalmers</td></tr>
+ <tr><td>39-4021.00</td><td>573</td><td>Funeral Attendants</td></tr>
+ <tr><td>39-4031.00</td><td>574</td><td>Morticians, Undertakers, and Funeral Directors</td></tr>
+ <tr><td>39-5011.00</td><td>575</td><td>Barbers</td></tr>
+ <tr><td>39-5012.00</td><td>576</td><td>Hairdressers, Hairstylists, and Cosmetologists</td></tr>
+ <tr><td>39-5091.00</td><td>577</td><td>Makeup Artists, Theatrical and Performance</td></tr>
+ <tr><td>39-5092.00</td><td>578</td><td>Manicurists and Pedicurists</td></tr>
+ <tr><td>39-5093.00</td><td>579</td><td>Shampooers</td></tr>
+ <tr><td>39-5094.00</td><td>580</td><td>Skincare Specialists</td></tr>
+ <tr><td>39-6011.00</td><td>581</td><td>Baggage Porters and Bellhops</td></tr>
+ <tr><td>39-6012.00</td><td>582</td><td>Concierges</td></tr>
+ <tr><td>39-7011.00</td><td>583</td><td>Tour Guides and Escorts</td></tr>
+ <tr><td>39-7012.00</td><td>584</td><td>Travel Guides</td></tr>
+ <tr><td>39-9011.00</td><td>585</td><td>Childcare Workers</td></tr>
+ <tr><td>39-9011.01</td><td>586</td><td>Nannies</td></tr>
+ <tr><td>39-9021.00</td><td>587</td><td>Personal Care Aides</td></tr>
+ <tr><td>39-9031.00</td><td>588</td><td>Fitness Trainers and Aerobics Instructors</td></tr>
+ <tr><td>39-9032.00</td><td>589</td><td>Recreation Workers</td></tr>
+ <tr><td>39-9041.00</td><td>590</td><td>Residential Advisors</td></tr>
+ <tr><td>41-1011.00</td><td>591</td><td>First-Line Supervisors of Retail Sales Workers</td></tr>
+ <tr><td>41-1012.00</td><td>592</td><td>First-Line Supervisors of Non-Retail Sales Workers</td></tr>
+ <tr><td>41-2011.00</td><td>593</td><td>Cashiers</td></tr>
+ <tr><td>41-2012.00</td><td>594</td><td>Gaming Change Persons and Booth Cashiers</td></tr>
+ <tr><td>41-2021.00</td><td>595</td><td>Counter and Rental Clerks</td></tr>
+ <tr><td>41-2022.00</td><td>596</td><td>Parts Salespersons</td></tr>
+ <tr><td>41-2031.00</td><td>597</td><td>Retail Salespersons</td></tr>
+ <tr><td>41-3011.00</td><td>598</td><td>Advertising Sales Agents</td></tr>
+ <tr><td>41-3021.00</td><td>599</td><td>Insurance Sales Agents</td></tr>
+ <tr><td>41-3031.01</td><td>600</td><td>Sales Agents, Securities and Commodities</td></tr>
+ <tr><td>41-3031.02</td><td>601</td><td>Sales Agents, Financial Services</td></tr>
+ <tr><td>41-3031.03</td><td>602</td><td>Securities and Commodities Traders</td></tr>
+ <tr><td>41-3041.00</td><td>603</td><td>Travel Agents</td></tr>
+ <tr><td>41-3099.01</td><td>604</td><td>Energy Brokers</td></tr>
+ <tr><td>41-4011.00</td><td>605</td><td>Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products</td></tr>
+ <tr><td>41-4011.07</td><td>606</td><td>Solar Sales Representatives and Assessors</td></tr>
+ <tr><td>41-4012.00</td><td>607</td><td>Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products</td></tr>
+ <tr><td>41-9011.00</td><td>608</td><td>Demonstrators and Product Promoters</td></tr>
+ <tr><td>41-9012.00</td><td>609</td><td>Models</td></tr>
+ <tr><td>41-9021.00</td><td>610</td><td>Real Estate Brokers</td></tr>
+ <tr><td>41-9022.00</td><td>611</td><td>Real Estate Sales Agents</td></tr>
+ <tr><td>41-9031.00</td><td>612</td><td>Sales Engineers</td></tr>
+ <tr><td>41-9041.00</td><td>613</td><td>Telemarketers</td></tr>
+ <tr><td>41-9091.00</td><td>614</td><td>Door-To-Door Sales Workers, News and Street Vendors, and Related Workers</td></tr>
+ <tr><td>43-1011.00</td><td>615</td><td>First-Line Supervisors of Office and Administrative Support Workers</td></tr>
+ <tr><td>43-2011.00</td><td>616</td><td>Switchboard Operators, Including Answering Service</td></tr>
+ <tr><td>43-2021.00</td><td>617</td><td>Telephone Operators</td></tr>
+ <tr><td>43-3011.00</td><td>618</td><td>Bill and Account Collectors</td></tr>
+ <tr><td>43-3021.01</td><td>619</td><td>Statement Clerks</td></tr>
+ <tr><td>43-3021.02</td><td>620</td><td>Billing, Cost, and Rate Clerks</td></tr>
+ <tr><td>43-3031.00</td><td>621</td><td>Bookkeeping, Accounting, and Auditing Clerks</td></tr>
+ <tr><td>43-3041.00</td><td>622</td><td>Gaming Cage Workers</td></tr>
+ <tr><td>43-3051.00</td><td>623</td><td>Payroll and Timekeeping Clerks</td></tr>
+ <tr><td>43-3061.00</td><td>624</td><td>Procurement Clerks</td></tr>
+ <tr><td>43-3071.00</td><td>625</td><td>Tellers</td></tr>
+ <tr><td>43-4011.00</td><td>626</td><td>Brokerage Clerks</td></tr>
+ <tr><td>43-4021.00</td><td>627</td><td>Correspondence Clerks</td></tr>
+ <tr><td>43-4031.01</td><td>628</td><td>Court Clerks</td></tr>
+ <tr><td>43-4031.02</td><td>629</td><td>Municipal Clerks</td></tr>
+ <tr><td>43-4031.03</td><td>630</td><td>License Clerks</td></tr>
+ <tr><td>43-4041.01</td><td>631</td><td>Credit Authorizers</td></tr>
+ <tr><td>43-4041.02</td><td>632</td><td>Credit Checkers</td></tr>
+ <tr><td>43-4051.00</td><td>633</td><td>Customer Service Representatives</td></tr>
+ <tr><td>43-4051.03</td><td>634</td><td>Patient Representatives</td></tr>
+ <tr><td>43-4061.00</td><td>635</td><td>Eligibility Interviewers, Government Programs</td></tr>
+ <tr><td>43-4071.00</td><td>636</td><td>File Clerks</td></tr>
+ <tr><td>43-4081.00</td><td>637</td><td>Hotel, Motel, and Resort Desk Clerks</td></tr>
+ <tr><td>43-4111.00</td><td>638</td><td>Interviewers, Except Eligibility and Loan</td></tr>
+ <tr><td>43-4121.00</td><td>639</td><td>Library Assistants, Clerical</td></tr>
+ <tr><td>43-4131.00</td><td>640</td><td>Loan Interviewers and Clerks</td></tr>
+ <tr><td>43-4141.00</td><td>641</td><td>New Accounts Clerks</td></tr>
+ <tr><td>43-4151.00</td><td>642</td><td>Order Clerks</td></tr>
+ <tr><td>43-4161.00</td><td>643</td><td>Human Resources Assistants, Except Payroll and Timekeeping</td></tr>
+ <tr><td>43-4171.00</td><td>644</td><td>Receptionists and Information Clerks</td></tr>
+ <tr><td>43-4181.00</td><td>645</td><td>Reservation and Transportation Ticket Agents and Travel Clerks</td></tr>
+ <tr><td>43-5011.00</td><td>646</td><td>Cargo and Freight Agents</td></tr>
+ <tr><td>43-5011.01</td><td>647</td><td>Freight Forwarders</td></tr>
+ <tr><td>43-5021.00</td><td>648</td><td>Couriers and Messengers</td></tr>
+ <tr><td>43-5031.00</td><td>649</td><td>Police, Fire, and Ambulance Dispatchers</td></tr>
+ <tr><td>43-5032.00</td><td>650</td><td>Dispatchers, Except Police, Fire, and Ambulance</td></tr>
+ <tr><td>43-5041.00</td><td>651</td><td>Meter Readers, Utilities</td></tr>
+ <tr><td>43-5051.00</td><td>652</td><td>Postal Service Clerks</td></tr>
+ <tr><td>43-5052.00</td><td>653</td><td>Postal Service Mail Carriers</td></tr>
+ <tr><td>43-5053.00</td><td>654</td><td>Postal Service Mail Sorters, Processors, and Processing Machine Operators</td></tr>
+ <tr><td>43-5061.00</td><td>655</td><td>Production, Planning, and Expediting Clerks</td></tr>
+ <tr><td>43-5071.00</td><td>656</td><td>Shipping, Receiving, and Traffic Clerks</td></tr>
+ <tr><td>43-5081.01</td><td>657</td><td>Stock Clerks, Sales Floor</td></tr>
+ <tr><td>43-5081.02</td><td>658</td><td>Marking Clerks</td></tr>
+ <tr><td>43-5081.03</td><td>659</td><td>Stock Clerks- Stockroom, Warehouse, or Storage Yard</td></tr>
+ <tr><td>43-5081.04</td><td>660</td><td>Order Fillers, Wholesale and Retail Sales</td></tr>
+ <tr><td>43-5111.00</td><td>661</td><td>Weighers, Measurers, Checkers, and Samplers, Recordkeeping</td></tr>
+ <tr><td>43-6011.00</td><td>662</td><td>Executive Secretaries and Executive Administrative Assistants</td></tr>
+ <tr><td>43-6012.00</td><td>663</td><td>Legal Secretaries</td></tr>
+ <tr><td>43-6013.00</td><td>664</td><td>Medical Secretaries</td></tr>
+ <tr><td>43-6014.00</td><td>665</td><td>Secretaries and Administrative Assistants, Except Legal, Medical, and Executive</td></tr>
+ <tr><td>43-9011.00</td><td>666</td><td>Computer Operators</td></tr>
+ <tr><td>43-9021.00</td><td>667</td><td>Data Entry Keyers</td></tr>
+ <tr><td>43-9022.00</td><td>668</td><td>Word Processors and Typists</td></tr>
+ <tr><td>43-9031.00</td><td>669</td><td>Desktop Publishers</td></tr>
+ <tr><td>43-9041.01</td><td>670</td><td>Insurance Claims Clerks</td></tr>
+ <tr><td>43-9041.02</td><td>671</td><td>Insurance Policy Processing Clerks</td></tr>
+ <tr><td>43-9051.00</td><td>672</td><td>Mail Clerks and Mail Machine Operators, Except Postal Service</td></tr>
+ <tr><td>43-9061.00</td><td>673</td><td>Office Clerks, General</td></tr>
+ <tr><td>43-9071.00</td><td>674</td><td>Office Machine Operators, Except Computer</td></tr>
+ <tr><td>43-9081.00</td><td>675</td><td>Proofreaders and Copy Markers</td></tr>
+ <tr><td>43-9111.00</td><td>676</td><td>Statistical Assistants</td></tr>
+ <tr><td>43-9111.01</td><td>677</td><td>Bioinformatics Technicians</td></tr>
+ <tr><td>45-1011.05</td><td>678</td><td>First-Line Supervisors of Logging Workers</td></tr>
+ <tr><td>45-1011.06</td><td>679</td><td>First-Line Supervisors of Aquacultural Workers</td></tr>
+ <tr><td>45-1011.07</td><td>680</td><td>First-Line Supervisors of Agricultural Crop and Horticultural Workers</td></tr>
+ <tr><td>45-1011.08</td><td>681</td><td>First-Line Supervisors of Animal Husbandry and Animal Care Workers</td></tr>
+ <tr><td>45-2011.00</td><td>682</td><td>Agricultural Inspectors</td></tr>
+ <tr><td>45-2021.00</td><td>683</td><td>Animal Breeders</td></tr>
+ <tr><td>45-2041.00</td><td>684</td><td>Graders and Sorters, Agricultural Products</td></tr>
+ <tr><td>45-2091.00</td><td>685</td><td>Agricultural Equipment Operators</td></tr>
+ <tr><td>45-2092.01</td><td>686</td><td>Nursery Workers</td></tr>
+ <tr><td>45-2092.02</td><td>687</td><td>Farmworkers and Laborers, Crop</td></tr>
+ <tr><td>45-2093.00</td><td>688</td><td>Farmworkers, Farm, Ranch, and Aquacultural Animals</td></tr>
+ <tr><td>45-3011.00</td><td>689</td><td>Fishers and Related Fishing Workers</td></tr>
+ <tr><td>45-3021.00</td><td>690</td><td>Hunters and Trappers</td></tr>
+ <tr><td>45-4011.00</td><td>691</td><td>Forest and Conservation Workers</td></tr>
+ <tr><td>45-4021.00</td><td>692</td><td>Fallers</td></tr>
+ <tr><td>45-4022.00</td><td>693</td><td>Logging Equipment Operators</td></tr>
+ <tr><td>45-4023.00</td><td>694</td><td>Log Graders and Scalers</td></tr>
+ <tr><td>47-1011.00</td><td>695</td><td>First-Line Supervisors of Construction Trades and Extraction Workers</td></tr>
+ <tr><td>47-1011.03</td><td>696</td><td>Solar Energy Installation Managers</td></tr>
+ <tr><td>47-2011.00</td><td>697</td><td>Boilermakers</td></tr>
+ <tr><td>47-2021.00</td><td>698</td><td>Brickmasons and Blockmasons</td></tr>
+ <tr><td>47-2022.00</td><td>699</td><td>Stonemasons</td></tr>
+ <tr><td>47-2031.01</td><td>700</td><td>Construction Carpenters</td></tr>
+ <tr><td>47-2031.02</td><td>701</td><td>Rough Carpenters</td></tr>
+ <tr><td>47-2041.00</td><td>702</td><td>Carpet Installers</td></tr>
+ <tr><td>47-2042.00</td><td>703</td><td>Floor Layers, Except Carpet, Wood, and Hard Tiles</td></tr>
+ <tr><td>47-2043.00</td><td>704</td><td>Floor Sanders and Finishers</td></tr>
+ <tr><td>47-2044.00</td><td>705</td><td>Tile and Marble Setters</td></tr>
+ <tr><td>47-2051.00</td><td>706</td><td>Cement Masons and Concrete Finishers</td></tr>
+ <tr><td>47-2053.00</td><td>707</td><td>Terrazzo Workers and Finishers</td></tr>
+ <tr><td>47-2061.00</td><td>708</td><td>Construction Laborers</td></tr>
+ <tr><td>47-2071.00</td><td>709</td><td>Paving, Surfacing, and Tamping Equipment Operators</td></tr>
+ <tr><td>47-2072.00</td><td>710</td><td>Pile-Driver Operators</td></tr>
+ <tr><td>47-2073.00</td><td>711</td><td>Operating Engineers and Other Construction Equipment Operators</td></tr>
+ <tr><td>47-2081.00</td><td>712</td><td>Drywall and Ceiling Tile Installers</td></tr>
+ <tr><td>47-2082.00</td><td>713</td><td>Tapers</td></tr>
+ <tr><td>47-2111.00</td><td>714</td><td>Electricians</td></tr>
+ <tr><td>47-2121.00</td><td>715</td><td>Glaziers</td></tr>
+ <tr><td>47-2131.00</td><td>716</td><td>Insulation Workers, Floor, Ceiling, and Wall</td></tr>
+ <tr><td>47-2132.00</td><td>717</td><td>Insulation Workers, Mechanical</td></tr>
+ <tr><td>47-2141.00</td><td>718</td><td>Painters, Construction and Maintenance</td></tr>
+ <tr><td>47-2142.00</td><td>719</td><td>Paperhangers</td></tr>
+ <tr><td>47-2151.00</td><td>720</td><td>Pipelayers</td></tr>
+ <tr><td>47-2152.01</td><td>721</td><td>Pipe Fitters and Steamfitters</td></tr>
+ <tr><td>47-2152.02</td><td>722</td><td>Plumbers</td></tr>
+ <tr><td>47-2161.00</td><td>723</td><td>Plasterers and Stucco Masons</td></tr>
+ <tr><td>47-2171.00</td><td>724</td><td>Reinforcing Iron and Rebar Workers</td></tr>
+ <tr><td>47-2181.00</td><td>725</td><td>Roofers</td></tr>
+ <tr><td>47-2211.00</td><td>726</td><td>Sheet Metal Workers</td></tr>
+ <tr><td>47-2221.00</td><td>727</td><td>Structural Iron and Steel Workers</td></tr>
+ <tr><td>47-2231.00</td><td>728</td><td>Solar Photovoltaic Installers</td></tr>
+ <tr><td>47-3011.00</td><td>729</td><td>Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters</td></tr>
+ <tr><td>47-3012.00</td><td>730</td><td>Helpers--Carpenters</td></tr>
+ <tr><td>47-3013.00</td><td>731</td><td>Helpers--Electricians</td></tr>
+ <tr><td>47-3014.00</td><td>732</td><td>Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons</td></tr>
+ <tr><td>47-3015.00</td><td>733</td><td>Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters</td></tr>
+ <tr><td>47-3016.00</td><td>734</td><td>Helpers--Roofers</td></tr>
+ <tr><td>47-4011.00</td><td>735</td><td>Construction and Building Inspectors</td></tr>
+ <tr><td>47-4021.00</td><td>736</td><td>Elevator Installers and Repairers</td></tr>
+ <tr><td>47-4031.00</td><td>737</td><td>Fence Erectors</td></tr>
+ <tr><td>47-4041.00</td><td>738</td><td>Hazardous Materials Removal Workers</td></tr>
+ <tr><td>47-4051.00</td><td>739</td><td>Highway Maintenance Workers</td></tr>
+ <tr><td>47-4061.00</td><td>740</td><td>Rail-Track Laying and Maintenance Equipment Operators</td></tr>
+ <tr><td>47-4071.00</td><td>741</td><td>Septic Tank Servicers and Sewer Pipe Cleaners</td></tr>
+ <tr><td>47-4091.00</td><td>742</td><td>Segmental Pavers</td></tr>
+ <tr><td>47-4099.02</td><td>743</td><td>Solar Thermal Installers and Technicians</td></tr>
+ <tr><td>47-4099.03</td><td>744</td><td>Weatherization Installers and Technicians</td></tr>
+ <tr><td>47-5011.00</td><td>745</td><td>Derrick Operators, Oil and Gas</td></tr>
+ <tr><td>47-5012.00</td><td>746</td><td>Rotary Drill Operators, Oil and Gas</td></tr>
+ <tr><td>47-5013.00</td><td>747</td><td>Service Unit Operators, Oil, Gas, and Mining</td></tr>
+ <tr><td>47-5021.00</td><td>748</td><td>Earth Drillers, Except Oil and Gas</td></tr>
+ <tr><td>47-5031.00</td><td>749</td><td>Explosives Workers, Ordnance Handling Experts, and Blasters</td></tr>
+ <tr><td>47-5041.00</td><td>750</td><td>Continuous Mining Machine Operators</td></tr>
+ <tr><td>47-5042.00</td><td>751</td><td>Mine Cutting and Channeling Machine Operators</td></tr>
+ <tr><td>47-5051.00</td><td>752</td><td>Rock Splitters, Quarry</td></tr>
+ <tr><td>47-5061.00</td><td>753</td><td>Roof Bolters, Mining</td></tr>
+ <tr><td>47-5071.00</td><td>754</td><td>Roustabouts, Oil and Gas</td></tr>
+ <tr><td>47-5081.00</td><td>755</td><td>Helpers--Extraction Workers</td></tr>
+ <tr><td>49-1011.00</td><td>756</td><td>First-Line Supervisors of Mechanics, Installers, and Repairers</td></tr>
+ <tr><td>49-2011.00</td><td>757</td><td>Computer, Automated Teller, and Office Machine Repairers</td></tr>
+ <tr><td>49-2021.00</td><td>758</td><td>Radio, Cellular, and Tower Equipment Installers and Repairers</td></tr>
+ <tr><td>49-2021.01</td><td>759</td><td>Radio Mechanics</td></tr>
+ <tr><td>49-2022.00</td><td>760</td><td>Telecommunications Equipment Installers and Repairers, Except Line Installers</td></tr>
+ <tr><td>49-2091.00</td><td>761</td><td>Avionics Technicians</td></tr>
+ <tr><td>49-2092.00</td><td>762</td><td>Electric Motor, Power Tool, and Related Repairers</td></tr>
+ <tr><td>49-2093.00</td><td>763</td><td>Electrical and Electronics Installers and Repairers, Transportation Equipment</td></tr>
+ <tr><td>49-2094.00</td><td>764</td><td>Electrical and Electronics Repairers, Commercial and Industrial Equipment</td></tr>
+ <tr><td>49-2095.00</td><td>765</td><td>Electrical and Electronics Repairers, Powerhouse, Substation, and Relay</td></tr>
+ <tr><td>49-2096.00</td><td>766</td><td>Electronic Equipment Installers and Repairers, Motor Vehicles</td></tr>
+ <tr><td>49-2097.00</td><td>767</td><td>Electronic Home Entertainment Equipment Installers and Repairers</td></tr>
+ <tr><td>49-2098.00</td><td>768</td><td>Security and Fire Alarm Systems Installers</td></tr>
+ <tr><td>49-3011.00</td><td>769</td><td>Aircraft Mechanics and Service Technicians</td></tr>
+ <tr><td>49-3021.00</td><td>770</td><td>Automotive Body and Related Repairers</td></tr>
+ <tr><td>49-3022.00</td><td>771</td><td>Automotive Glass Installers and Repairers</td></tr>
+ <tr><td>49-3023.01</td><td>772</td><td>Automotive Master Mechanics</td></tr>
+ <tr><td>49-3023.02</td><td>773</td><td>Automotive Specialty Technicians</td></tr>
+ <tr><td>49-3031.00</td><td>774</td><td>Bus and Truck Mechanics and Diesel Engine Specialists</td></tr>
+ <tr><td>49-3041.00</td><td>775</td><td>Farm Equipment Mechanics and Service Technicians</td></tr>
+ <tr><td>49-3042.00</td><td>776</td><td>Mobile Heavy Equipment Mechanics, Except Engines</td></tr>
+ <tr><td>49-3043.00</td><td>777</td><td>Rail Car Repairers</td></tr>
+ <tr><td>49-3051.00</td><td>778</td><td>Motorboat Mechanics and Service Technicians</td></tr>
+ <tr><td>49-3052.00</td><td>779</td><td>Motorcycle Mechanics</td></tr>
+ <tr><td>49-3053.00</td><td>780</td><td>Outdoor Power Equipment and Other Small Engine Mechanics</td></tr>
+ <tr><td>49-3091.00</td><td>781</td><td>Bicycle Repairers</td></tr>
+ <tr><td>49-3092.00</td><td>782</td><td>Recreational Vehicle Service Technicians</td></tr>
+ <tr><td>49-3093.00</td><td>783</td><td>Tire Repairers and Changers</td></tr>
+ <tr><td>49-9011.00</td><td>784</td><td>Mechanical Door Repairers</td></tr>
+ <tr><td>49-9012.00</td><td>785</td><td>Control and Valve Installers and Repairers, Except Mechanical Door</td></tr>
+ <tr><td>49-9021.01</td><td>786</td><td>Heating and Air Conditioning Mechanics and Installers</td></tr>
+ <tr><td>49-9021.02</td><td>787</td><td>Refrigeration Mechanics and Installers</td></tr>
+ <tr><td>49-9031.00</td><td>788</td><td>Home Appliance Repairers</td></tr>
+ <tr><td>49-9041.00</td><td>789</td><td>Industrial Machinery Mechanics</td></tr>
+ <tr><td>49-9043.00</td><td>790</td><td>Maintenance Workers, Machinery</td></tr>
+ <tr><td>49-9044.00</td><td>791</td><td>Millwrights</td></tr>
+ <tr><td>49-9045.00</td><td>792</td><td>Refractory Materials Repairers, Except Brickmasons</td></tr>
+ <tr><td>49-9051.00</td><td>793</td><td>Electrical Power-Line Installers and Repairers</td></tr>
+ <tr><td>49-9052.00</td><td>794</td><td>Telecommunications Line Installers and Repairers</td></tr>
+ <tr><td>49-9061.00</td><td>795</td><td>Camera and Photographic Equipment Repairers</td></tr>
+ <tr><td>49-9062.00</td><td>796</td><td>Medical Equipment Repairers</td></tr>
+ <tr><td>49-9063.00</td><td>797</td><td>Musical Instrument Repairers and Tuners</td></tr>
+ <tr><td>49-9064.00</td><td>798</td><td>Watch Repairers</td></tr>
+ <tr><td>49-9071.00</td><td>799</td><td>Maintenance and Repair Workers, General</td></tr>
+ <tr><td>49-9081.00</td><td>800</td><td>Wind Turbine Service Technicians</td></tr>
+ <tr><td>49-9091.00</td><td>801</td><td>Coin, Vending, and Amusement Machine Servicers and Repairers</td></tr>
+ <tr><td>49-9092.00</td><td>802</td><td>Commercial Divers</td></tr>
+ <tr><td>49-9093.00</td><td>803</td><td>Fabric Menders, Except Garment</td></tr>
+ <tr><td>49-9094.00</td><td>804</td><td>Locksmiths and Safe Repairers</td></tr>
+ <tr><td>49-9095.00</td><td>805</td><td>Manufactured Building and Mobile Home Installers</td></tr>
+ <tr><td>49-9096.00</td><td>806</td><td>Riggers</td></tr>
+ <tr><td>49-9097.00</td><td>807</td><td>Signal and Track Switch Repairers</td></tr>
+ <tr><td>49-9098.00</td><td>808</td><td>Helpers--Installation, Maintenance, and Repair Workers</td></tr>
+ <tr><td>49-9099.01</td><td>809</td><td>Geothermal Technicians</td></tr>
+ <tr><td>51-1011.00</td><td>810</td><td>First-Line Supervisors of Production and Operating Workers</td></tr>
+ <tr><td>51-2011.00</td><td>811</td><td>Aircraft Structure, Surfaces, Rigging, and Systems Assemblers</td></tr>
+ <tr><td>51-2021.00</td><td>812</td><td>Coil Winders, Tapers, and Finishers</td></tr>
+ <tr><td>51-2022.00</td><td>813</td><td>Electrical and Electronic Equipment Assemblers</td></tr>
+ <tr><td>51-2023.00</td><td>814</td><td>Electromechanical Equipment Assemblers</td></tr>
+ <tr><td>51-2031.00</td><td>815</td><td>Engine and Other Machine Assemblers</td></tr>
+ <tr><td>51-2041.00</td><td>816</td><td>Structural Metal Fabricators and Fitters</td></tr>
+ <tr><td>51-2091.00</td><td>817</td><td>Fiberglass Laminators and Fabricators</td></tr>
+ <tr><td>51-2092.00</td><td>818</td><td>Team Assemblers</td></tr>
+ <tr><td>51-2093.00</td><td>819</td><td>Timing Device Assemblers and Adjusters</td></tr>
+ <tr><td>51-3011.00</td><td>820</td><td>Bakers</td></tr>
+ <tr><td>51-3021.00</td><td>821</td><td>Butchers and Meat Cutters</td></tr>
+ <tr><td>51-3022.00</td><td>822</td><td>Meat, Poultry, and Fish Cutters and Trimmers</td></tr>
+ <tr><td>51-3023.00</td><td>823</td><td>Slaughterers and Meat Packers</td></tr>
+ <tr><td>51-3091.00</td><td>824</td><td>Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders</td></tr>
+ <tr><td>51-3092.00</td><td>825</td><td>Food Batchmakers</td></tr>
+ <tr><td>51-3093.00</td><td>826</td><td>Food Cooking Machine Operators and Tenders</td></tr>
+ <tr><td>51-4011.00</td><td>827</td><td>Computer-Controlled Machine Tool Operators, Metal and Plastic</td></tr>
+ <tr><td>51-4012.00</td><td>828</td><td>Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic</td></tr>
+ <tr><td>51-4021.00</td><td>829</td><td>Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4022.00</td><td>830</td><td>Forging Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4023.00</td><td>831</td><td>Rolling Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4031.00</td><td>832</td><td>Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4032.00</td><td>833</td><td>Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4033.00</td><td>834</td><td>Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4034.00</td><td>835</td><td>Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4035.00</td><td>836</td><td>Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4041.00</td><td>837</td><td>Machinists</td></tr>
+ <tr><td>51-4051.00</td><td>838</td><td>Metal-Refining Furnace Operators and Tenders</td></tr>
+ <tr><td>51-4052.00</td><td>839</td><td>Pourers and Casters, Metal</td></tr>
+ <tr><td>51-4061.00</td><td>840</td><td>Model Makers, Metal and Plastic</td></tr>
+ <tr><td>51-4062.00</td><td>841</td><td>Patternmakers, Metal and Plastic</td></tr>
+ <tr><td>51-4071.00</td><td>842</td><td>Foundry Mold and Coremakers</td></tr>
+ <tr><td>51-4072.00</td><td>843</td><td>Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4081.00</td><td>844</td><td>Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4111.00</td><td>845</td><td>Tool and Die Makers</td></tr>
+ <tr><td>51-4121.06</td><td>846</td><td>Welders, Cutters, and Welder Fitters</td></tr>
+ <tr><td>51-4121.07</td><td>847</td><td>Solderers and Brazers</td></tr>
+ <tr><td>51-4122.00</td><td>848</td><td>Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-4191.00</td><td>849</td><td>Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4192.00</td><td>850</td><td>Layout Workers, Metal and Plastic</td></tr>
+ <tr><td>51-4193.00</td><td>851</td><td>Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic</td></tr>
+ <tr><td>51-4194.00</td><td>852</td><td>Tool Grinders, Filers, and Sharpeners</td></tr>
+ <tr><td>51-5111.00</td><td>853</td><td>Prepress Technicians and Workers</td></tr>
+ <tr><td>51-5112.00</td><td>854</td><td>Printing Press Operators</td></tr>
+ <tr><td>51-5113.00</td><td>855</td><td>Print Binding and Finishing Workers</td></tr>
+ <tr><td>51-6011.00</td><td>856</td><td>Laundry and Dry-Cleaning Workers</td></tr>
+ <tr><td>51-6021.00</td><td>857</td><td>Pressers, Textile, Garment, and Related Materials</td></tr>
+ <tr><td>51-6031.00</td><td>858</td><td>Sewing Machine Operators</td></tr>
+ <tr><td>51-6041.00</td><td>859</td><td>Shoe and Leather Workers and Repairers</td></tr>
+ <tr><td>51-6042.00</td><td>860</td><td>Shoe Machine Operators and Tenders</td></tr>
+ <tr><td>51-6051.00</td><td>861</td><td>Sewers, Hand</td></tr>
+ <tr><td>51-6052.00</td><td>862</td><td>Tailors, Dressmakers, and Custom Sewers</td></tr>
+ <tr><td>51-6061.00</td><td>863</td><td>Textile Bleaching and Dyeing Machine Operators and Tenders</td></tr>
+ <tr><td>51-6062.00</td><td>864</td><td>Textile Cutting Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-6063.00</td><td>865</td><td>Textile Knitting and Weaving Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-6064.00</td><td>866</td><td>Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-6091.00</td><td>867</td><td>Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers</td></tr>
+ <tr><td>51-6092.00</td><td>868</td><td>Fabric and Apparel Patternmakers</td></tr>
+ <tr><td>51-6093.00</td><td>869</td><td>Upholsterers</td></tr>
+ <tr><td>51-7011.00</td><td>870</td><td>Cabinetmakers and Bench Carpenters</td></tr>
+ <tr><td>51-7021.00</td><td>871</td><td>Furniture Finishers</td></tr>
+ <tr><td>51-7031.00</td><td>872</td><td>Model Makers, Wood</td></tr>
+ <tr><td>51-7032.00</td><td>873</td><td>Patternmakers, Wood</td></tr>
+ <tr><td>51-7041.00</td><td>874</td><td>Sawing Machine Setters, Operators, and Tenders, Wood</td></tr>
+ <tr><td>51-7042.00</td><td>875</td><td>Woodworking Machine Setters, Operators, and Tenders, Except Sawing</td></tr>
+ <tr><td>51-8011.00</td><td>876</td><td>Nuclear Power Reactor Operators</td></tr>
+ <tr><td>51-8012.00</td><td>877</td><td>Power Distributors and Dispatchers</td></tr>
+ <tr><td>51-8013.00</td><td>878</td><td>Power Plant Operators</td></tr>
+ <tr><td>51-8021.00</td><td>879</td><td>Stationary Engineers and Boiler Operators</td></tr>
+ <tr><td>51-8031.00</td><td>880</td><td>Water and Wastewater Treatment Plant and System Operators</td></tr>
+ <tr><td>51-8091.00</td><td>881</td><td>Chemical Plant and System Operators</td></tr>
+ <tr><td>51-8092.00</td><td>882</td><td>Gas Plant Operators</td></tr>
+ <tr><td>51-8093.00</td><td>883</td><td>Petroleum Pump System Operators, Refinery Operators, and Gaugers</td></tr>
+ <tr><td>51-8099.01</td><td>884</td><td>Biofuels Processing Technicians</td></tr>
+ <tr><td>51-8099.02</td><td>885</td><td>Methane/Landfill Gas Generation System Technicians</td></tr>
+ <tr><td>51-8099.03</td><td>886</td><td>Biomass Plant Technicians</td></tr>
+ <tr><td>51-8099.04</td><td>887</td><td>Hydroelectric Plant Technicians</td></tr>
+ <tr><td>51-9011.00</td><td>888</td><td>Chemical Equipment Operators and Tenders</td></tr>
+ <tr><td>51-9012.00</td><td>889</td><td>Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9021.00</td><td>890</td><td>Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9022.00</td><td>891</td><td>Grinding and Polishing Workers, Hand</td></tr>
+ <tr><td>51-9023.00</td><td>892</td><td>Mixing and Blending Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9031.00</td><td>893</td><td>Cutters and Trimmers, Hand</td></tr>
+ <tr><td>51-9032.00</td><td>894</td><td>Cutting and Slicing Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9041.00</td><td>895</td><td>Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9051.00</td><td>896</td><td>Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders</td></tr>
+ <tr><td>51-9061.00</td><td>897</td><td>Inspectors, Testers, Sorters, Samplers, and Weighers</td></tr>
+ <tr><td>51-9071.01</td><td>898</td><td>Jewelers</td></tr>
+ <tr><td>51-9071.06</td><td>899</td><td>Gem and Diamond Workers</td></tr>
+ <tr><td>51-9071.07</td><td>900</td><td>Precious Metal Workers</td></tr>
+ <tr><td>51-9081.00</td><td>901</td><td>Dental Laboratory Technicians</td></tr>
+ <tr><td>51-9082.00</td><td>902</td><td>Medical Appliance Technicians</td></tr>
+ <tr><td>51-9083.00</td><td>903</td><td>Ophthalmic Laboratory Technicians</td></tr>
+ <tr><td>51-9111.00</td><td>904</td><td>Packaging and Filling Machine Operators and Tenders</td></tr>
+ <tr><td>51-9121.00</td><td>905</td><td>Coating, Painting, and Spraying Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9122.00</td><td>906</td><td>Painters, Transportation Equipment</td></tr>
+ <tr><td>51-9123.00</td><td>907</td><td>Painting, Coating, and Decorating Workers</td></tr>
+ <tr><td>51-9141.00</td><td>908</td><td>Semiconductor Processors</td></tr>
+ <tr><td>51-9151.00</td><td>909</td><td>Photographic Process Workers and Processing Machine Operators</td></tr>
+ <tr><td>51-9191.00</td><td>910</td><td>Adhesive Bonding Machine Operators and Tenders</td></tr>
+ <tr><td>51-9192.00</td><td>911</td><td>Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders</td></tr>
+ <tr><td>51-9193.00</td><td>912</td><td>Cooling and Freezing Equipment Operators and Tenders</td></tr>
+ <tr><td>51-9194.00</td><td>913</td><td>Etchers and Engravers</td></tr>
+ <tr><td>51-9195.03</td><td>914</td><td>Stone Cutters and Carvers, Manufacturing</td></tr>
+ <tr><td>51-9195.04</td><td>915</td><td>Glass Blowers, Molders, Benders, and Finishers</td></tr>
+ <tr><td>51-9195.05</td><td>916</td><td>Potters, Manufacturing</td></tr>
+ <tr><td>51-9195.07</td><td>917</td><td>Molding and Casting Workers</td></tr>
+ <tr><td>51-9196.00</td><td>918</td><td>Paper Goods Machine Setters, Operators, and Tenders</td></tr>
+ <tr><td>51-9197.00</td><td>919</td><td>Tire Builders</td></tr>
+ <tr><td>51-9198.00</td><td>920</td><td>Helpers--Production Workers</td></tr>
+ <tr><td>51-9199.01</td><td>921</td><td>Recycling and Reclamation Workers</td></tr>
+ <tr><td>53-1011.00</td><td>922</td><td>Aircraft Cargo Handling Supervisors</td></tr>
+ <tr><td>53-1021.00</td><td>923</td><td>First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand</td></tr>
+ <tr><td>53-1021.01</td><td>924</td><td>Recycling Coordinators</td></tr>
+ <tr><td>53-1031.00</td><td>925</td><td>First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators</td></tr>
+ <tr><td>53-2011.00</td><td>926</td><td>Airline Pilots, Copilots, and Flight Engineers</td></tr>
+ <tr><td>53-2012.00</td><td>927</td><td>Commercial Pilots</td></tr>
+ <tr><td>53-2021.00</td><td>928</td><td>Air Traffic Controllers</td></tr>
+ <tr><td>53-2022.00</td><td>929</td><td>Airfield Operations Specialists</td></tr>
+ <tr><td>53-2031.00</td><td>930</td><td>Flight Attendants</td></tr>
+ <tr><td>53-3011.00</td><td>931</td><td>Ambulance Drivers and Attendants, Except Emergency Medical Technicians</td></tr>
+ <tr><td>53-3021.00</td><td>932</td><td>Bus Drivers, Transit and Intercity</td></tr>
+ <tr><td>53-3022.00</td><td>933</td><td>Bus Drivers, School or Special Client</td></tr>
+ <tr><td>53-3031.00</td><td>934</td><td>Driver/Sales Workers</td></tr>
+ <tr><td>53-3032.00</td><td>935</td><td>Heavy and Tractor-Trailer Truck Drivers</td></tr>
+ <tr><td>53-3033.00</td><td>936</td><td>Light Truck or Delivery Services Drivers</td></tr>
+ <tr><td>53-3041.00</td><td>937</td><td>Taxi Drivers and Chauffeurs</td></tr>
+ <tr><td>53-4011.00</td><td>938</td><td>Locomotive Engineers</td></tr>
+ <tr><td>53-4012.00</td><td>939</td><td>Locomotive Firers</td></tr>
+ <tr><td>53-4013.00</td><td>940</td><td>Rail Yard Engineers, Dinkey Operators, and Hostlers</td></tr>
+ <tr><td>53-4021.00</td><td>941</td><td>Railroad Brake, Signal, and Switch Operators</td></tr>
+ <tr><td>53-4031.00</td><td>942</td><td>Railroad Conductors and Yardmasters</td></tr>
+ <tr><td>53-4041.00</td><td>943</td><td>Subway and Streetcar Operators</td></tr>
+ <tr><td>53-5011.00</td><td>944</td><td>Sailors and Marine Oilers</td></tr>
+ <tr><td>53-5021.01</td><td>945</td><td>Ship and Boat Captains</td></tr>
+ <tr><td>53-5021.02</td><td>946</td><td>Mates- Ship, Boat, and Barge</td></tr>
+ <tr><td>53-5021.03</td><td>947</td><td>Pilots, Ship</td></tr>
+ <tr><td>53-5022.00</td><td>948</td><td>Motorboat Operators</td></tr>
+ <tr><td>53-5031.00</td><td>949</td><td>Ship Engineers</td></tr>
+ <tr><td>53-6011.00</td><td>950</td><td>Bridge and Lock Tenders</td></tr>
+ <tr><td>53-6021.00</td><td>951</td><td>Parking Lot Attendants</td></tr>
+ <tr><td>53-6031.00</td><td>952</td><td>Automotive and Watercraft Service Attendants</td></tr>
+ <tr><td>53-6041.00</td><td>953</td><td>Traffic Technicians</td></tr>
+ <tr><td>53-6051.01</td><td>954</td><td>Aviation Inspectors</td></tr>
+ <tr><td>53-6051.07</td><td>955</td><td>Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation</td></tr>
+ <tr><td>53-6051.08</td><td>956</td><td>Freight and Cargo Inspectors</td></tr>
+ <tr><td>53-6061.00</td><td>957</td><td>Transportation Attendants, Except Flight Attendants</td></tr>
+ <tr><td>53-7011.00</td><td>958</td><td>Conveyor Operators and Tenders</td></tr>
+ <tr><td>53-7021.00</td><td>959</td><td>Crane and Tower Operators</td></tr>
+ <tr><td>53-7031.00</td><td>960</td><td>Dredge Operators</td></tr>
+ <tr><td>53-7032.00</td><td>961</td><td>Excavating and Loading Machine and Dragline Operators</td></tr>
+ <tr><td>53-7033.00</td><td>962</td><td>Loading Machine Operators, Underground Mining</td></tr>
+ <tr><td>53-7041.00</td><td>963</td><td>Hoist and Winch Operators</td></tr>
+ <tr><td>53-7051.00</td><td>964</td><td>Industrial Truck and Tractor Operators</td></tr>
+ <tr><td>53-7061.00</td><td>965</td><td>Cleaners of Vehicles and Equipment</td></tr>
+ <tr><td>53-7062.00</td><td>966</td><td>Laborers and Freight, Stock, and Material Movers, Hand</td></tr>
+ <tr><td>53-7063.00</td><td>967</td><td>Machine Feeders and Offbearers</td></tr>
+ <tr><td>53-7064.00</td><td>968</td><td>Packers and Packagers, Hand</td></tr>
+ <tr><td>53-7071.00</td><td>969</td><td>Gas Compressor and Gas Pumping Station Operators</td></tr>
+ <tr><td>53-7072.00</td><td>970</td><td>Pump Operators, Except Wellhead Pumpers</td></tr>
+ <tr><td>53-7073.00</td><td>971</td><td>Wellhead Pumpers</td></tr>
+ <tr><td>53-7081.00</td><td>972</td><td>Refuse and Recyclable Material Collectors</td></tr>
+ <tr><td>53-7111.00</td><td>973</td><td>Mine Shuttle Car Operators</td></tr>
+ <tr><td>53-7121.00</td><td>974</td><td>Tank Car, Truck, and Ship Loaders</td></tr>
+</tbody></table>
